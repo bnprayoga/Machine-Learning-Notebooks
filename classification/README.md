@@ -1,1 +1,1 @@
-ll notebooks documentation of Machine Learning with Classification methods
+all notebooks documentation of Machine Learning with Classification methods
