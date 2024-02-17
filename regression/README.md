@@ -1,1 +1,1 @@
-all documentation of Machine Learning Regression notebooks
+all notebooks documentation of Machine Learning with Regression methods
