@@ -1,4 +1,4 @@
-INTORDUCTION: TRIP & TRAVEL CUSTOMER RECOMMENDATIONS MODEL
+# INTORDUCTION: TRIP & TRAVEL CUSTOMER RECOMMENDATIONS MODEL
 
 ![App Platorm](https://holidayturn.com/wp-content/uploads/2017/09/International-travel.jpg)
 
