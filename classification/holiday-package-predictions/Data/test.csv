@@ -1,0 +1,881 @@
+CustomerID,ProdTaken,Age,CompanyInvited,CityTier,DurationOfPitch,Occupation,GenderMale,NumberOfFollowups,PreferredPropertyStar,MaritalStatus,HasPassport,PitchSatisfactionScore,Designation,MonthlyIncome
+201450,0,35.0,0,2,32.0,Others,0,3.0,3.0,Unmarried,1,1,Senior Manager,23837.0
+203826,0,32.0,1,1,10.0,Small Business,1,4.0,5.0,Married,1,1,Executive,21743.0
+204121,0,37.0,1,1,25.0,Small Business,0,4.0,3.0,Unmarried,0,3,Executive,20831.0
+204771,1,45.0,0,1,17.0,Others,1,4.0,3.0,Unmarried,1,3,Executive,21614.0
+200780,1,28.0,1,1,30.0,Large Business,1,4.0,5.0,Unmarried,0,2,Senior Manager,23722.0
+204590,0,36.0,0,1,28.0,Others,0,4.0,3.0,Married,1,3,Manager,22692.0
+200610,0,27.0,0,1,11.0,Large Business,1,4.0,3.0,Married,1,3,Senior Manager,27808.0
+203715,1,22.0,0,3,14.0,Small Business,1,4.0,4.0,Unmarried,0,5,Executive,21357.0
+200987,0,51.0,1,3,8.0,Small Business,1,3.0,4.0,Divorced,0,4,Senior Manager,25596.0
+200256,0,42.0,0,1,8.0,Small Business,0,4.0,5.0,Married,1,4,Executive,17593.0
+202849,1,26.0,0,1,10.0,Small Business,1,4.0,5.0,Divorced,0,5,Executive,22709.0
+201915,0,55.0,0,3,24.0,Others,0,3.0,4.0,Unmarried,0,1,AVP,31835.0
+204871,1,41.0,0,3,23.0,Small Business,1,4.0,3.0,Married,0,5,Senior Manager,22222.0
+200599,0,36.0,0,2,19.0,Others,1,3.0,4.0,Divorced,0,3,Executive,17143.0
+201006,1,49.0,1,1,,Others,1,4.0,5.0,Unmarried,0,3,Manager,
+200448,0,40.0,0,1,12.0,Others,0,3.0,3.0,Unmarried,0,5,AVP,28237.0
+200205,1,29.0,0,3,33.0,Small Business,0,3.0,3.0,Divorced,0,3,Senior Manager,22639.0
+201865,0,43.0,1,1,27.0,Small Business,1,3.0,3.0,Married,0,4,Executive,17258.0
+201974,1,45.0,1,3,,Others,0,3.0,5.0,Married,0,1,Manager,
+201958,0,,0,1,8.0,Others,0,3.0,3.0,Married,0,1,Manager,
+200319,0,32.0,0,3,14.0,Large Business,0,4.0,4.0,Divorced,1,2,Manager,20228.0
+202639,0,38.0,0,1,28.0,Others,1,3.0,5.0,Divorced,1,3,Executive,22242.0
+201212,0,34.0,0,1,25.0,Others,0,4.0,3.0,Married,0,4,Executive,17929.0
+202199,0,35.0,0,1,31.0,Small Business,0,3.0,3.0,Married,1,3,Senior Manager,25388.0
+201134,0,35.0,0,1,13.0,Others,1,4.0,3.0,Married,0,3,Executive,17690.0
+200462,0,34.0,0,3,27.0,Others,1,2.0,3.0,Unmarried,0,3,Manager,20337.0
+204089,0,57.0,0,1,15.0,Others,0,4.0,5.0,Married,1,4,Executive,22935.0
+201706,1,33.0,0,1,8.0,Others,0,3.0,5.0,Married,0,3,Executive,17707.0
+200578,0,38.0,1,1,8.0,Others,0,1.0,5.0,Unmarried,1,2,Manager,20980.0
+203261,0,37.0,1,1,25.0,Others,1,4.0,3.0,Unmarried,0,3,Manager,26457.0
+204317,0,42.0,0,3,7.0,Small Business,1,2.0,5.0,Married,0,3,Senior Manager,27070.0
+203276,0,38.0,0,1,32.0,Small Business,0,5.0,3.0,Married,0,3,Manager,24409.0
+200144,0,32.0,1,3,,Small Business,1,5.0,3.0,Married,0,2,Manager,19668.0
+203863,0,43.0,0,1,25.0,Others,1,4.0,5.0,Married,1,1,Manager,24088.0
+201314,0,45.0,1,3,8.0,Others,0,3.0,3.0,Married,0,1,Manager,20154.0
+200376,0,51.0,0,3,20.0,Others,0,,3.0,Divorced,0,3,Manager,19936.0
+203293,1,44.0,0,3,16.0,Small Business,0,6.0,3.0,Unmarried,0,2,Manager,24024.0
+202563,0,44.0,1,3,33.0,Others,1,4.0,3.0,Divorced,1,2,AVP,35637.0
+202499,0,34.0,1,1,7.0,Others,0,4.0,3.0,Unmarried,1,2,Senior Manager,32136.0
+204884,1,28.0,1,1,31.0,Others,1,5.0,3.0,Unmarried,1,3,Executive,21212.0
+203166,0,39.0,1,1,17.0,Small Business,1,4.0,3.0,Divorced,0,5,Executive,21362.0
+201886,0,38.0,1,1,8.0,Others,1,3.0,3.0,Married,1,5,Executive,16702.0
+202742,0,37.0,1,1,25.0,Others,1,3.0,3.0,Divorced,0,5,Executive,22366.0
+201868,0,37.0,1,1,,Small Business,0,3.0,3.0,Married,1,3,Manager,
+201624,0,32.0,1,3,14.0,Small Business,0,3.0,3.0,Unmarried,0,4,Senior Manager,23998.0
+202156,0,41.0,0,1,,Small Business,1,3.0,5.0,Unmarried,1,4,Executive,19721.0
+200646,0,53.0,0,3,14.0,Small Business,1,3.0,3.0,Divorced,0,3,AVP,26836.0
+202508,0,37.0,0,1,15.0,Large Business,0,4.0,3.0,Married,0,4,Senior Manager,28774.0
+201136,1,28.0,0,1,30.0,Small Business,1,3.0,4.0,Married,1,1,Executive,17408.0
+201171,1,40.0,0,1,13.0,Others,1,3.0,5.0,Unmarried,1,3,Executive,17166.0
+202282,0,43.0,1,1,33.0,Others,0,3.0,5.0,Married,0,4,Senior Manager,25820.0
+203635,0,32.0,0,3,12.0,Others,0,4.0,3.0,Married,0,1,Manager,24154.0
+203444,0,53.0,0,1,15.0,Others,0,4.0,5.0,Divorced,0,1,Executive,21628.0
+203861,0,32.0,0,3,9.0,Others,1,4.0,3.0,Married,0,4,Executive,21745.0
+202674,0,53.0,0,1,9.0,Others,0,5.0,3.0,Unmarried,0,3,Executive,21890.0
+203682,0,24.0,0,1,11.0,Small Business,0,4.0,4.0,Unmarried,0,3,Executive,21973.0
+201881,0,60.0,0,1,13.0,Others,0,3.0,5.0,Married,0,5,VP,34566.0
+201083,1,40.0,0,1,15.0,Others,1,3.0,5.0,Unmarried,0,1,Executive,17018.0
+201855,1,30.0,1,1,10.0,Large Business,1,3.0,3.0,Unmarried,1,4,Executive,17285.0
+202495,1,29.0,0,1,12.0,Large Business,1,4.0,3.0,Unmarried,1,2,Executive,22119.0
+202038,1,55.0,0,1,8.0,Small Business,1,3.0,5.0,Married,1,1,VP,34859.0
+200990,0,33.0,1,3,11.0,Others,1,3.0,3.0,Divorced,0,1,Manager,24998.0
+201714,0,45.0,0,1,6.0,Others,1,1.0,3.0,Married,0,4,VP,34202.0
+202846,0,31.0,0,3,19.0,Large Business,0,4.0,3.0,Unmarried,0,2,Manager,25255.0
+203039,1,59.0,0,1,9.0,Others,1,4.0,4.0,Unmarried,1,3,VP,37924.0
+204224,0,32.0,0,2,9.0,Others,1,5.0,5.0,Married,0,3,Manager,25088.0
+202629,0,34.0,0,1,21.0,Small Business,0,4.0,4.0,Divorced,0,5,Executive,21434.0
+200298,0,,1,1,24.0,Others,1,2.0,3.0,Divorced,0,5,Executive,18688.0
+204751,0,41.0,1,1,16.0,Small Business,0,4.0,3.0,Unmarried,0,4,Senior Manager,32177.0
+204346,0,35.0,0,1,9.0,Others,1,5.0,3.0,Married,0,5,Executive,21446.0
+201283,0,28.0,0,1,6.0,Others,1,3.0,3.0,Married,0,1,Executive,17044.0
+201312,1,31.0,0,2,24.0,Others,1,1.0,5.0,Married,0,1,Executive,17956.0
+201446,0,34.0,0,3,34.0,Small Business,0,4.0,3.0,Married,0,5,Manager,21712.0
+204701,0,56.0,1,1,9.0,Others,1,4.0,4.0,Married,0,1,Senior Manager,29654.0
+200386,0,37.0,0,1,20.0,Others,0,3.0,5.0,Married,0,4,Executive,18034.0
+202004,0,53.0,0,1,13.0,Others,1,1.0,3.0,Married,0,1,AVP,29814.0
+203656,0,35.0,0,1,26.0,Others,0,5.0,3.0,Married,0,4,Executive,21607.0
+200871,1,24.0,0,1,23.0,Others,0,3.0,4.0,Divorced,0,2,Executive,17210.0
+202532,0,31.0,0,1,9.0,Others,1,5.0,3.0,Divorced,0,4,Manager,22830.0
+204458,0,48.0,1,3,10.0,Small Business,0,4.0,3.0,Married,1,5,AVP,32448.0
+204331,0,41.0,0,3,9.0,Others,0,4.0,3.0,Married,0,3,VP,36719.0
+201935,0,46.0,1,1,24.0,Small Business,0,3.0,3.0,Married,0,3,Senior Manager,25527.0
+201968,0,22.0,0,1,12.0,Small Business,1,3.0,3.0,Married,0,1,Executive,17773.0
+204768,0,46.0,0,1,14.0,Small Business,0,4.0,3.0,Married,1,3,Executive,23155.0
+202028,0,32.0,1,1,30.0,Others,1,3.0,3.0,Married,0,4,Manager,20309.0
+202627,0,51.0,0,1,7.0,Small Business,1,5.0,3.0,Divorced,0,3,Executive,22368.0
+201997,0,32.0,0,3,16.0,Small Business,1,3.0,3.0,Unmarried,0,4,Manager,20396.0
+203008,0,46.0,0,3,9.0,Large Business,1,6.0,3.0,Unmarried,0,5,Manager,25310.0
+200661,0,43.0,0,1,,Others,0,3.0,4.0,Married,0,3,Manager,19765.0
+204245,0,28.0,1,3,7.0,Small Business,1,4.0,4.0,Married,1,1,Manager,25027.0
+204750,1,30.0,0,3,30.0,Others,0,5.0,5.0,Married,0,3,Senior Manager,26014.0
+203244,1,29.0,1,1,7.0,Small Business,1,5.0,4.0,Married,0,4,Executive,21274.0
+202580,1,52.0,1,1,15.0,Others,1,6.0,3.0,Unmarried,0,2,Senior Manager,29328.0
+204557,0,43.0,0,1,10.0,Others,0,2.0,3.0,Married,1,5,Manager,23909.0
+200377,0,36.0,0,1,8.0,Others,0,3.0,3.0,Divorced,0,5,Executive,17543.0
+204335,1,30.0,0,1,32.0,Large Business,0,5.0,4.0,Married,0,3,Executive,21224.0
+200303,0,31.0,0,3,13.0,Large Business,1,2.0,3.0,Divorced,0,2,Manager,21929.0
+203347,0,30.0,0,1,14.0,Others,1,4.0,3.0,Married,1,3,Manager,25301.0
+201622,0,53.0,0,3,12.0,Small Business,1,3.0,3.0,Married,1,5,Manager,17306.0
+203901,0,41.0,0,1,9.0,Small Business,0,4.0,3.0,Married,0,1,Executive,20679.0
+203283,0,43.0,0,3,11.0,Small Business,1,4.0,5.0,Unmarried,0,5,Manager,23833.0
+201617,0,41.0,1,1,16.0,Others,1,4.0,5.0,Married,0,1,AVP,32181.0
+204332,0,27.0,0,1,30.0,Others,0,4.0,3.0,Married,0,3,Executive,21564.0
+202739,0,43.0,1,3,33.0,Small Business,0,4.0,4.0,Divorced,0,3,AVP,32203.0
+202294,0,42.0,0,1,,Small Business,1,5.0,3.0,Unmarried,0,3,Manager,
+204737,0,30.0,1,1,17.0,Others,0,4.0,4.0,Married,0,5,Executive,21969.0
+201286,0,,0,1,8.0,Others,0,3.0,5.0,Married,0,4,Executive,18377.0
+201992,0,37.0,0,1,,Others,1,1.0,3.0,Unmarried,0,4,Executive,19680.0
+202777,0,44.0,0,1,14.0,Others,0,4.0,5.0,Divorced,0,5,Senior Manager,28663.0
+204485,0,27.0,1,1,7.0,Others,0,6.0,3.0,Married,0,4,Executive,23042.0
+203041,0,43.0,0,1,7.0,Others,0,5.0,3.0,Divorced,1,3,Manager,24740.0
+200832,0,37.0,0,1,31.0,Small Business,0,4.0,3.0,Married,0,3,Manager,20731.0
+202618,0,46.0,0,3,11.0,Others,0,4.0,5.0,Married,1,4,Manager,23684.0
+203285,0,25.0,0,1,31.0,Small Business,1,4.0,4.0,Unmarried,0,5,Executive,22275.0
+204006,0,31.0,0,3,11.0,Small Business,0,5.0,4.0,Married,1,3,Manager,23887.0
+202210,0,,0,1,16.0,Others,1,3.0,3.0,Married,0,5,Executive,
+203795,0,49.0,1,1,29.0,Small Business,0,4.0,3.0,Married,0,5,AVP,35852.0
+201336,0,55.0,0,1,8.0,Large Business,1,4.0,3.0,Married,0,5,Executive,17662.0
+201772,0,28.0,0,1,22.0,Small Business,1,1.0,5.0,Unmarried,0,5,Manager,20661.0
+201515,1,41.0,0,1,18.0,Large Business,0,3.0,3.0,Married,0,4,VP,34545.0
+203859,0,34.0,1,1,7.0,Small Business,1,5.0,3.0,Married,0,3,Executive,20686.0
+203503,0,36.0,0,3,14.0,Others,1,4.0,3.0,Divorced,0,3,Executive,21082.0
+201370,0,47.0,1,1,20.0,Large Business,1,3.0,4.0,Married,0,3,Manager,20467.0
+201259,0,30.0,0,1,22.0,Others,1,1.0,3.0,Married,0,1,Manager,20294.0
+201692,0,37.0,1,1,17.0,Others,1,3.0,3.0,Married,1,3,Senior Manager,27185.0
+202124,0,39.0,0,2,8.0,Others,0,4.0,3.0,Married,0,3,Manager,20204.0
+204654,0,36.0,0,1,17.0,Others,1,4.0,3.0,Married,0,5,Executive,22595.0
+201372,0,39.0,0,1,15.0,Small Business,1,3.0,5.0,Married,0,4,Manager,20151.0
+204696,0,31.0,0,1,27.0,Others,1,4.0,5.0,Married,0,4,Manager,28635.0
+200500,0,32.0,0,1,15.0,Others,0,3.0,3.0,Divorced,1,5,Manager,21322.0
+202877,0,47.0,0,3,17.0,Small Business,0,5.0,3.0,Divorced,1,2,Senior Manager,27749.0
+202738,0,38.0,1,1,16.0,Small Business,1,4.0,3.0,Divorced,1,2,Executive,21004.0
+201510,0,35.0,0,1,10.0,Others,1,3.0,3.0,Married,0,4,Executive,16951.0
+200171,1,19.0,1,3,6.0,Large Business,0,5.0,5.0,Unmarried,0,3,Executive,17325.0
+200638,0,25.0,0,3,,Small Business,1,4.0,5.0,Divorced,0,3,Manager,
+200875,0,44.0,0,1,,Others,1,3.0,3.0,Unmarried,0,5,Manager,19541.0
+200325,0,31.0,1,1,13.0,Others,0,4.0,3.0,Divorced,0,2,Senior Manager,23943.0
+201347,0,,1,2,8.0,Others,1,4.0,3.0,Unmarried,0,3,Manager,
+203010,1,48.0,1,3,34.0,Others,0,2.0,3.0,Unmarried,1,4,Manager,25075.0
+202071,0,40.0,1,1,22.0,Small Business,1,4.0,3.0,Unmarried,0,5,Manager,20094.0
+202784,0,38.0,0,1,12.0,Small Business,1,4.0,3.0,Married,0,3,Manager,25025.0
+204117,0,41.0,0,1,26.0,Small Business,1,4.0,3.0,Married,1,1,Manager,21419.0
+201761,0,36.0,0,1,,Large Business,1,3.0,4.0,Unmarried,0,1,Manager,19485.0
+203329,0,26.0,0,3,17.0,Others,1,4.0,3.0,Unmarried,0,2,Manager,23628.0
+203539,0,34.0,0,1,35.0,Others,1,4.0,3.0,Married,1,1,Manager,23885.0
+202897,1,27.0,1,2,24.0,Others,0,4.0,3.0,Married,1,5,Executive,21419.0
+200576,0,27.0,0,3,,Small Business,1,3.0,3.0,Divorced,0,3,Manager,
+203130,0,42.0,0,1,13.0,Small Business,1,4.0,5.0,Unmarried,1,4,Executive,23399.0
+201589,0,43.0,1,3,32.0,Others,1,3.0,3.0,Married,1,1,AVP,31959.0
+201107,0,38.0,1,2,16.0,Others,1,3.0,3.0,Married,0,3,Manager,21077.0
+201103,0,48.0,0,3,22.0,Others,0,3.0,3.0,Married,0,4,Manager,21439.0
+202371,1,48.0,1,3,30.0,Others,1,5.0,3.0,Unmarried,1,1,Executive,17559.0
+200942,0,36.0,0,1,16.0,Large Business,0,3.0,3.0,Divorced,0,3,Senior Manager,22094.0
+201233,0,30.0,0,1,22.0,Others,1,3.0,3.0,Married,0,1,Executive,17862.0
+204227,0,34.0,1,1,12.0,Others,0,4.0,4.0,Married,0,3,Senior Manager,30556.0
+201365,1,29.0,1,3,30.0,Large Business,1,1.0,5.0,Unmarried,0,3,Executive,16091.0
+203469,0,25.0,0,3,11.0,Small Business,0,4.0,3.0,Divorced,1,5,Manager,22840.0
+202376,1,34.0,0,1,13.0,Others,1,3.0,3.0,Married,0,3,Manager,17585.0
+203742,1,47.0,0,1,28.0,Small Business,0,4.0,4.0,Married,0,3,Manager,27604.0
+202726,0,30.0,1,3,9.0,Others,1,4.0,3.0,Unmarried,0,2,Manager,23232.0
+202880,1,34.0,0,1,17.0,Small Business,1,6.0,3.0,Married,0,5,Executive,22086.0
+204370,0,32.0,0,3,14.0,Others,1,5.0,3.0,Married,0,3,Senior Manager,30235.0
+201911,0,42.0,1,1,11.0,Others,1,3.0,3.0,Married,0,3,Executive,17093.0
+200000,1,41.0,0,3,6.0,Others,0,3.0,3.0,Unmarried,1,2,Manager,20993.0
+204315,0,57.0,1,3,13.0,Others,0,2.0,5.0,Married,0,3,AVP,31890.0
+200559,0,38.0,0,1,8.0,Small Business,1,3.0,3.0,Divorced,1,4,Executive,18057.0
+204082,0,39.0,0,3,7.0,Others,0,5.0,3.0,Unmarried,0,1,Manager,27364.0
+203100,1,33.0,0,1,32.0,Others,1,4.0,3.0,Unmarried,1,5,Executive,21473.0
+201655,0,33.0,0,1,20.0,Small Business,0,3.0,4.0,Married,0,5,Executive,17756.0
+201721,0,39.0,1,1,8.0,Large Business,0,3.0,3.0,Unmarried,0,1,Senior Manager,25938.0
+204383,1,33.0,1,3,18.0,Others,1,2.0,3.0,Married,0,3,Manager,23385.0
+201808,0,30.0,0,3,11.0,Small Business,0,4.0,3.0,Married,0,1,Manager,21118.0
+204254,0,38.0,0,1,12.0,Small Business,1,4.0,3.0,Married,0,3,Manager,25025.0
+201978,0,35.0,0,1,12.0,Others,1,5.0,3.0,Unmarried,0,5,Manager,21646.0
+200998,0,,0,1,8.0,Small Business,1,4.0,3.0,Unmarried,0,3,Executive,
+202400,1,51.0,0,3,30.0,Small Business,0,4.0,4.0,Unmarried,1,5,Manager,17838.0
+201548,0,37.0,0,1,13.0,Small Business,1,3.0,3.0,Unmarried,0,1,Senior Manager,28664.0
+201089,0,37.0,0,1,,Small Business,1,3.0,3.0,Married,0,1,Manager,
+202609,0,51.0,0,1,18.0,Others,0,4.0,,Unmarried,0,5,VP,38604.0
+204534,0,36.0,0,1,34.0,Small Business,0,5.0,5.0,Unmarried,0,4,Executive,21237.0
+201186,1,35.0,1,3,,Others,1,3.0,3.0,Unmarried,1,3,Manager,19581.0
+204288,0,29.0,0,3,16.0,Others,1,4.0,3.0,Unmarried,0,3,Manager,23931.0
+200310,0,31.0,0,2,8.0,Others,1,4.0,5.0,Divorced,0,3,Manager,21410.0
+204382,0,53.0,0,1,13.0,Large Business,1,4.0,5.0,Married,1,4,Manager,24255.0
+203342,0,44.0,0,1,10.0,Others,1,6.0,,Divorced,0,5,VP,38418.0
+201077,1,29.0,0,1,6.0,Large Business,1,4.0,5.0,Unmarried,0,3,Executive,17362.0
+201447,0,36.0,1,3,21.0,Small Business,1,5.0,3.0,Married,0,1,Manager,20406.0
+204803,0,28.0,0,1,21.0,Others,1,4.0,5.0,Married,1,4,Executive,20913.0
+201464,0,26.0,0,3,11.0,Others,0,4.0,3.0,Unmarried,0,1,Executive,17966.0
+202980,0,61.0,0,3,23.0,Small Business,1,4.0,5.0,Unmarried,0,4,Manager,24083.0
+200015,0,29.0,0,1,27.0,Others,0,2.0,5.0,Married,0,5,Senior Manager,24980.0
+204354,1,35.0,1,2,30.0,Others,0,4.0,5.0,Married,1,3,Senior Manager,28628.0
+201111,1,53.0,0,1,8.0,Large Business,0,4.0,3.0,Married,0,5,Senior Manager,25169.0
+203077,0,37.0,0,2,15.0,Others,1,5.0,5.0,Divorced,0,2,Executive,21020.0
+200193,0,43.0,1,1,13.0,Small Business,1,2.0,3.0,Married,0,4,Executive,17089.0
+203722,0,37.0,0,1,17.0,Others,1,4.0,5.0,Married,1,5,Senior Manager,26999.0
+203345,0,49.0,0,1,9.0,Large Business,1,2.0,4.0,Unmarried,0,2,Executive,21237.0
+203491,0,34.0,1,3,14.0,Small Business,1,4.0,5.0,Divorced,0,3,Manager,23051.0
+204606,0,33.0,0,1,10.0,Small Business,0,4.0,5.0,Married,0,1,Manager,25403.0
+202029,0,38.0,0,1,8.0,Small Business,1,3.0,3.0,Married,1,4,Executive,18057.0
+201590,0,30.0,1,1,29.0,Others,1,5.0,3.0,Married,0,3,Executive,17613.0
+203122,0,49.0,0,1,27.0,Small Business,1,4.0,3.0,Divorced,0,2,Executive,20937.0
+201409,0,40.0,1,1,17.0,Large Business,0,3.0,3.0,Married,0,3,Manager,21323.0
+201182,0,36.0,0,1,,Small Business,0,4.0,3.0,Married,0,5,Manager,
+204795,0,33.0,1,1,9.0,Others,0,4.0,3.0,Unmarried,1,5,Manager,23676.0
+203966,0,45.0,0,3,7.0,Small Business,0,4.0,5.0,Married,1,1,Manager,24132.0
+201898,0,47.0,0,1,8.0,Small Business,0,3.0,3.0,Married,0,1,Manager,20070.0
+200148,0,41.0,0,1,15.0,Others,1,3.0,5.0,Divorced,0,2,Executive,17238.0
+202037,0,34.0,0,3,8.0,Others,1,3.0,3.0,Unmarried,0,5,Manager,21274.0
+202327,1,44.0,0,1,16.0,Others,1,3.0,3.0,Unmarried,1,3,Executive,17936.0
+201930,0,26.0,0,3,,Small Business,1,3.0,3.0,Married,0,5,Manager,
+200047,0,37.0,0,1,25.0,Others,1,3.0,4.0,Divorced,0,4,Executive,18022.0
+200715,0,33.0,1,1,6.0,Others,0,1.0,4.0,Divorced,1,3,Manager,20488.0
+203481,0,46.0,0,1,36.0,Large Business,1,4.0,3.0,Divorced,1,5,Senior Manager,28058.0
+200766,0,50.0,0,1,8.0,Small Business,1,3.0,3.0,Divorced,1,2,VP,34237.0
+202789,0,24.0,0,1,33.0,Others,1,4.0,3.0,Married,0,2,Executive,21582.0
+200550,0,23.0,0,1,15.0,Small Business,1,3.0,5.0,Divorced,0,3,Executive,17500.0
+204801,0,43.0,1,1,33.0,Small Business,0,4.0,5.0,Married,1,3,Senior Manager,31869.0
+201971,0,30.0,1,1,9.0,Small Business,0,3.0,3.0,Married,0,3,Executive,17083.0
+200034,1,24.0,0,1,6.0,Small Business,1,3.0,3.0,Divorced,1,3,Executive,17293.0
+201509,0,33.0,1,3,6.0,Others,0,1.0,5.0,Married,0,3,Manager,20376.0
+201963,0,44.0,0,2,6.0,Others,0,4.0,3.0,Unmarried,0,5,Manager,20985.0
+204846,1,30.0,1,1,9.0,Small Business,1,5.0,5.0,Unmarried,0,4,Executive,22017.0
+201327,0,46.0,0,3,9.0,Large Business,0,1.0,5.0,Married,0,3,AVP,28225.0
+200872,0,33.0,1,3,,Small Business,0,3.0,3.0,Divorced,0,3,Manager,19539.0
+201778,0,58.0,1,1,6.0,Others,1,5.0,3.0,Married,1,1,Manager,20660.0
+203259,0,22.0,0,1,7.0,Large Business,0,5.0,4.0,Unmarried,1,5,Executive,20748.0
+200574,0,34.0,0,1,6.0,Others,0,1.0,3.0,Unmarried,0,2,Executive,18280.0
+201600,0,43.0,1,1,,Small Business,0,1.0,3.0,Unmarried,0,3,Executive,19739.0
+203843,0,44.0,0,1,18.0,Others,1,4.0,3.0,Married,0,1,Senior Manager,26188.0
+201753,0,55.0,0,1,26.0,Large Business,1,3.0,3.0,Married,1,1,Manager,20415.0
+200833,0,27.0,0,1,12.0,Others,1,4.0,3.0,Divorced,0,2,Executive,17539.0
+203098,0,40.0,0,2,9.0,Others,0,5.0,3.0,Divorced,0,3,Manager,23882.0
+203738,0,42.0,0,1,12.0,Others,1,2.0,4.0,Unmarried,0,5,Manager,25548.0
+201375,1,32.0,1,1,11.0,Others,0,1.0,3.0,Unmarried,1,1,Executive,17432.0
+204017,0,35.0,0,1,13.0,Others,0,4.0,3.0,Unmarried,0,3,Manager,23487.0
+202778,0,46.0,0,1,15.0,Others,1,4.0,3.0,Divorced,0,3,Manager,22375.0
+201987,0,25.0,0,3,,Others,1,1.0,4.0,Married,0,4,Manager,19851.0
+203737,0,44.0,1,1,16.0,Others,1,4.0,3.0,Unmarried,0,3,Executive,21116.0
+201105,0,33.0,0,3,14.0,Others,1,3.0,5.0,Married,0,5,Manager,21392.0
+202525,0,36.0,0,1,7.0,Small Business,1,5.0,3.0,Unmarried,0,4,Executive,21537.0
+200970,0,27.0,0,3,17.0,Small Business,0,1.0,3.0,Divorced,0,3,Executive,17534.0
+201588,0,36.0,0,1,9.0,Others,0,3.0,3.0,Married,0,1,Executive,17835.0
+201366,0,39.0,1,3,27.0,Others,0,5.0,3.0,Married,0,5,Manager,20736.0
+204681,0,38.0,0,1,10.0,Others,0,4.0,4.0,Unmarried,0,4,Manager,22785.0
+200673,0,33.0,0,1,6.0,Others,1,4.0,5.0,Unmarried,1,4,Executive,17799.0
+202095,0,45.0,0,3,15.0,Small Business,1,3.0,5.0,Married,1,1,Senior Manager,25761.0
+204154,0,40.0,0,1,7.0,Small Business,0,4.0,3.0,Married,0,3,Executive,20910.0
+204450,0,61.0,0,3,23.0,Small Business,1,4.0,5.0,Unmarried,0,4,Manager,24083.0
+203891,0,37.0,1,3,22.0,Small Business,1,6.0,3.0,Married,0,1,Manager,24084.0
+202191,0,50.0,0,1,30.0,Others,1,3.0,3.0,Married,1,4,AVP,28973.0
+201062,0,44.0,1,1,8.0,Small Business,1,3.0,3.0,Unmarried,1,1,Senior Manager,25209.0
+204029,0,38.0,0,3,10.0,Others,1,4.0,3.0,Unmarried,0,3,Senior Manager,26106.0
+201587,0,36.0,1,3,17.0,Large Business,0,3.0,3.0,Married,0,5,Senior Manager,24738.0
+202224,0,33.0,1,3,14.0,Others,0,4.0,3.0,Unmarried,0,1,Executive,17342.0
+204189,0,38.0,1,1,7.0,Small Business,0,4.0,3.0,Married,1,3,Senior Manager,32281.0
+200662,1,20.0,0,3,8.0,Small Business,0,4.0,3.0,Unmarried,0,4,Executive,17044.0
+203427,0,35.0,0,1,9.0,Large Business,0,4.0,3.0,Unmarried,0,5,Manager,25365.0
+202931,0,21.0,0,1,7.0,Others,0,5.0,4.0,Unmarried,0,4,Executive,21514.0
+200150,0,40.0,1,1,32.0,Small Business,0,3.0,4.0,Married,0,2,Manager,20605.0
+203229,0,41.0,0,1,27.0,Large Business,1,4.0,3.0,Divorced,0,3,Senior Manager,29000.0
+200173,0,30.0,1,1,15.0,Small Business,1,3.0,5.0,Married,0,2,Manager,18072.0
+203807,0,34.0,0,3,17.0,Small Business,1,4.0,3.0,Unmarried,0,1,Manager,24165.0
+201051,0,44.0,1,3,,Small Business,0,3.0,3.0,Divorced,0,4,Manager,19768.0
+202832,0,43.0,0,1,7.0,Others,0,4.0,5.0,Married,0,3,Executive,21254.0
+202548,0,38.0,1,1,9.0,Others,1,5.0,3.0,Married,0,2,Manager,23841.0
+204452,0,42.0,0,2,7.0,Others,1,5.0,3.0,Married,0,1,VP,37867.0
+200873,0,36.0,0,1,12.0,Others,1,5.0,3.0,Married,0,2,Executive,17741.0
+201161,0,38.0,0,1,8.0,Small Business,0,4.0,3.0,Married,1,5,Senior Manager,22756.0
+200210,1,32.0,0,3,10.0,Small Business,1,5.0,3.0,Divorced,0,2,Senior Manager,25400.0
+201226,0,,1,1,16.0,Others,1,3.0,3.0,Married,0,1,Executive,18433.0
+203735,1,38.0,0,1,17.0,Small Business,1,4.0,5.0,Unmarried,0,4,Manager,22891.0
+203724,0,38.0,0,2,15.0,Others,1,4.0,4.0,Married,0,3,Manager,22749.0
+200401,0,56.0,1,3,12.0,Others,0,2.0,5.0,Divorced,0,3,AVP,28212.0
+203435,0,33.0,0,3,9.0,Small Business,1,4.0,4.0,Divorced,1,1,Manager,22756.0
+203108,0,37.0,0,1,21.0,Others,1,4.0,3.0,Divorced,1,5,Manager,25264.0
+202902,0,41.0,1,3,35.0,Others,1,6.0,5.0,Married,0,5,Senior Manager,29610.0
+200608,1,55.0,0,3,8.0,Small Business,1,3.0,3.0,Unmarried,0,2,Manager,20160.0
+201901,0,,0,1,5.0,Others,0,3.0,3.0,Unmarried,0,1,Manager,
+204527,0,35.0,0,2,10.0,Others,1,4.0,3.0,Married,0,1,Executive,22415.0
+203658,0,45.0,0,1,9.0,Others,0,2.0,3.0,Married,1,4,Senior Manager,26557.0
+201296,0,30.0,0,1,16.0,Small Business,0,3.0,3.0,Unmarried,0,4,Senior Manager,24667.0
+201027,0,34.0,0,1,6.0,Others,0,4.0,4.0,Divorced,0,1,Executive,18294.0
+200580,0,35.0,0,3,14.0,Others,0,3.0,3.0,Divorced,0,3,Executive,17572.0
+200222,0,37.0,1,1,17.0,Others,1,3.0,3.0,Married,1,3,Senior Manager,27185.0
+204789,0,45.0,0,1,36.0,Others,1,4.0,3.0,Unmarried,0,5,Manager,23219.0
+200540,1,28.0,0,1,6.0,Others,0,5.0,4.0,Unmarried,1,2,Executive,17216.0
+201170,0,27.0,1,1,8.0,Small Business,1,3.0,3.0,Unmarried,0,3,Executive,17580.0
+201018,0,36.0,0,1,10.0,Others,1,4.0,3.0,Unmarried,0,5,Manager,20810.0
+201190,0,32.0,0,1,8.0,Small Business,1,3.0,4.0,Married,0,4,Manager,20470.0
+203001,0,36.0,1,1,9.0,Others,0,4.0,5.0,Married,0,4,Manager,23771.0
+203794,0,28.0,0,3,9.0,Small Business,0,2.0,3.0,Unmarried,0,1,Manager,25178.0
+203918,0,28.0,0,1,9.0,Small Business,1,4.0,4.0,Married,0,5,Executive,22146.0
+201095,0,33.0,0,1,34.0,Others,1,3.0,3.0,Married,1,1,Manager,20207.0
+203945,0,45.0,0,1,17.0,Others,1,4.0,3.0,Married,1,3,Manager,25143.0
+202878,0,32.0,0,1,16.0,Others,1,4.0,4.0,Married,0,3,Senior Manager,29326.0
+204787,0,37.0,0,1,13.0,Others,1,6.0,3.0,Married,0,1,Executive,21419.0
+203594,0,36.0,0,1,25.0,Others,1,2.0,5.0,Married,0,3,Manager,23886.0
+202093,0,,1,1,11.0,Others,1,4.0,3.0,Married,0,5,Executive,
+202195,1,,0,1,20.0,Others,1,4.0,4.0,Married,1,5,Executive,
+203377,0,29.0,0,1,7.0,Large Business,1,4.0,5.0,Unmarried,0,4,Executive,20758.0
+201328,0,,0,3,29.0,Small Business,0,4.0,3.0,Married,0,1,Manager,18540.0
+200878,0,42.0,1,2,8.0,Small Business,1,1.0,5.0,Divorced,0,2,Manager,21272.0
+204791,0,47.0,0,1,9.0,Large Business,1,4.0,3.0,Married,0,1,Manager,26057.0
+200390,0,43.0,0,1,18.0,Others,1,4.0,4.0,Married,0,3,AVP,29336.0
+201179,0,34.0,0,1,9.0,Others,0,3.0,4.0,Married,0,5,Manager,20433.0
+201012,1,31.0,1,3,6.0,Others,0,5.0,3.0,Unmarried,0,3,Executive,16359.0
+203204,0,54.0,1,3,9.0,Small Business,0,5.0,4.0,Divorced,0,2,Senior Manager,26203.0
+202489,1,42.0,0,1,19.0,Large Business,0,4.0,3.0,Divorced,0,4,VP,38223.0
+203681,1,33.0,0,3,7.0,Others,1,6.0,4.0,Unmarried,0,3,Manager,25413.0
+202138,0,28.0,0,1,15.0,Small Business,0,3.0,3.0,Married,0,3,Executive,17377.0
+201397,0,54.0,0,1,15.0,Others,0,3.0,3.0,Married,0,5,Manager,17897.0
+201236,1,36.0,0,3,19.0,Small Business,1,4.0,5.0,Married,1,1,Manager,21134.0
+200521,0,27.0,1,3,,Small Business,0,2.0,3.0,Married,1,2,Manager,19647.0
+204840,1,44.0,1,1,9.0,Others,1,4.0,3.0,Married,1,3,Executive,28909.0
+203623,0,35.0,0,1,10.0,Others,0,4.0,4.0,Married,0,5,Manager,24111.0
+201356,0,41.0,0,3,,Small Business,0,3.0,4.0,Married,0,3,Manager,
+202363,0,,0,1,7.0,Others,0,3.0,3.0,Married,0,1,Executive,
+204038,1,32.0,0,3,13.0,Others,1,6.0,3.0,Married,1,3,Manager,24850.0
+204416,0,54.0,0,3,7.0,Small Business,0,4.0,5.0,Unmarried,0,1,Manager,27059.0
+203408,0,35.0,0,3,22.0,Small Business,0,4.0,5.0,Unmarried,0,1,Manager,24803.0
+203322,0,43.0,1,2,9.0,Small Business,1,2.0,5.0,Divorced,0,2,Manager,24950.0
+201184,0,54.0,0,1,28.0,Small Business,0,3.0,3.0,Married,0,1,AVP,32426.0
+200185,0,33.0,0,1,20.0,Small Business,0,3.0,4.0,Divorced,0,5,Executive,17756.0
+203110,1,23.0,0,1,10.0,Others,0,4.0,3.0,Divorced,1,5,Manager,22849.0
+201092,0,45.0,0,1,34.0,Large Business,1,3.0,3.0,Married,0,3,Executive,17132.0
+203052,1,56.0,0,3,9.0,Small Business,1,4.0,3.0,Unmarried,0,2,Manager,23838.0
+200468,0,52.0,0,1,12.0,Large Business,1,3.0,5.0,Married,1,4,Manager,20577.0
+201689,0,54.0,0,3,9.0,Small Business,0,3.0,5.0,Married,0,4,Manager,20940.0
+202709,0,30.0,0,3,9.0,Small Business,1,5.0,4.0,Divorced,0,4,Manager,25322.0
+203245,1,51.0,1,3,7.0,Others,1,4.0,3.0,Unmarried,1,2,Manager,23406.0
+202660,1,31.0,1,3,33.0,Small Business,0,5.0,5.0,Unmarried,0,2,Manager,25374.0
+202894,0,32.0,0,3,9.0,Others,1,4.0,3.0,Unmarried,1,5,Manager,25260.0
+203049,0,39.0,1,1,19.0,Others,1,5.0,5.0,Married,0,5,Manager,24966.0
+200919,0,59.0,0,1,24.0,Small Business,1,3.0,3.0,Unmarried,0,3,Senior Manager,25512.0
+200537,0,27.0,1,1,16.0,Others,1,3.0,5.0,Married,0,3,Senior Manager,23793.0
+201316,0,43.0,1,3,8.0,Others,1,3.0,3.0,Married,0,3,Manager,20675.0
+201699,1,29.0,0,1,24.0,Small Business,1,4.0,3.0,Unmarried,1,3,Executive,17389.0
+200795,0,37.0,0,3,16.0,Others,0,4.0,3.0,Married,1,4,Manager,21694.0
+203597,1,19.0,1,3,10.0,Small Business,0,4.0,3.0,Unmarried,1,5,Executive,20247.0
+200461,0,35.0,0,3,,Small Business,0,3.0,3.0,Unmarried,0,4,Manager,19859.0
+200169,0,32.0,0,1,12.0,Others,1,3.0,3.0,Unmarried,0,2,Executive,18038.0
+200114,0,34.0,0,1,,Others,0,4.0,4.0,Married,0,3,Manager,19505.0
+204095,0,35.0,0,1,34.0,Small Business,0,4.0,4.0,Unmarried,0,3,Executive,20989.0
+202347,0,46.0,0,1,8.0,Large Business,1,3.0,3.0,Married,0,1,Manager,22379.0
+202314,0,30.0,0,3,16.0,Small Business,1,4.0,3.0,Married,0,1,Manager,21578.0
+202485,0,28.0,0,1,9.0,Others,0,4.0,5.0,Married,0,3,Executive,21019.0
+204034,0,31.0,1,1,30.0,Others,1,6.0,3.0,Married,0,3,Executive,21291.0
+201598,0,22.0,0,1,8.0,Large Business,1,3.0,3.0,Married,0,5,Executive,17523.0
+203092,0,38.0,1,3,28.0,Small Business,0,4.0,3.0,Divorced,0,2,Executive,21651.0
+201335,0,,0,1,25.0,Others,1,3.0,3.0,Married,0,5,Manager,
+204623,1,32.0,1,1,16.0,Small Business,1,5.0,5.0,Unmarried,1,3,Executive,20999.0
+203990,0,36.0,0,3,7.0,Small Business,1,5.0,5.0,Unmarried,0,1,Manager,22990.0
+200280,0,53.0,0,1,9.0,Small Business,1,3.0,3.0,Divorced,1,5,AVP,32584.0
+201569,0,44.0,1,1,29.0,Small Business,1,3.0,4.0,Married,0,3,Manager,17042.0
+203579,0,47.0,0,3,7.0,Others,1,2.0,5.0,Unmarried,0,4,AVP,36245.0
+200016,0,32.0,0,1,11.0,Others,1,2.0,4.0,Married,1,2,Executive,18298.0
+204562,0,38.0,1,3,28.0,Small Business,0,4.0,3.0,Married,0,1,Executive,21651.0
+203507,0,30.0,0,3,26.0,Others,1,5.0,3.0,Married,0,4,Manager,27298.0
+201410,0,40.0,0,3,8.0,Small Business,0,3.0,4.0,Married,0,3,Manager,20677.0
+204637,0,47.0,0,1,14.0,Small Business,1,4.0,3.0,Married,0,1,Senior Manager,29523.0
+203239,0,38.0,0,3,17.0,Others,0,5.0,3.0,Married,1,4,Manager,25372.0
+204182,0,46.0,0,1,27.0,Small Business,1,4.0,3.0,Married,1,3,AVP,32174.0
+200180,0,,0,1,18.0,Small Business,0,3.0,3.0,Divorced,1,4,Executive,
+204054,1,33.0,0,1,16.0,Small Business,0,4.0,5.0,Unmarried,0,4,Executive,22878.0
+203350,0,35.0,0,1,27.0,Large Business,0,2.0,3.0,Divorced,0,1,Executive,21263.0
+203815,0,57.0,0,3,18.0,Small Business,0,5.0,5.0,Married,0,5,Manager,24058.0
+202073,0,45.0,0,1,8.0,Others,0,4.0,3.0,Unmarried,0,3,Executive,17274.0
+202955,0,37.0,0,1,16.0,Small Business,1,5.0,4.0,Married,1,4,Manager,27525.0
+204172,0,52.0,0,1,7.0,Others,1,4.0,3.0,Married,0,4,Executive,21401.0
+200293,1,26.0,0,3,10.0,Small Business,1,4.0,3.0,Unmarried,1,2,Manager,20828.0
+200340,0,37.0,0,1,11.0,Small Business,1,3.0,3.0,Married,0,3,Manager,21347.0
+202863,0,31.0,1,1,10.0,Others,1,4.0,3.0,Divorced,0,3,Executive,20775.0
+200442,0,36.0,1,3,16.0,Small Business,1,3.0,3.0,Unmarried,0,2,Senior Manager,24980.0
+203441,1,28.0,0,1,24.0,Others,0,4.0,3.0,Unmarried,1,5,Executive,21072.0
+204776,0,45.0,1,1,24.0,Others,1,6.0,3.0,Unmarried,0,4,Executive,20968.0
+201601,0,50.0,1,3,18.0,Small Business,0,3.0,3.0,Unmarried,0,5,Senior Manager,24208.0
+200807,0,38.0,0,3,16.0,Small Business,1,4.0,3.0,Married,1,3,Senior Manager,23740.0
+204558,0,32.0,0,1,18.0,Others,1,4.0,3.0,Married,1,3,Executive,21034.0
+201727,0,40.0,0,1,8.0,Small Business,1,3.0,3.0,Married,0,5,VP,34436.0
+201795,0,31.0,1,1,13.0,Others,0,4.0,3.0,Married,0,1,Senior Manager,23943.0
+200627,0,52.0,1,1,31.0,Small Business,0,4.0,3.0,Divorced,0,5,AVP,28826.0
+202649,1,30.0,0,3,34.0,Small Business,0,4.0,3.0,Divorced,0,3,Senior Manager,26317.0
+201244,0,30.0,1,1,8.0,Large Business,0,,5.0,Unmarried,0,3,Executive,19968.0
+203034,0,34.0,0,1,14.0,Small Business,1,4.0,3.0,Divorced,0,4,Senior Manager,30369.0
+202636,1,36.0,0,1,30.0,Others,1,5.0,3.0,Divorced,1,4,Manager,24594.0
+200103,0,34.0,0,1,,Others,0,3.0,3.0,Unmarried,0,3,Manager,19809.0
+204385,0,39.0,0,1,17.0,Small Business,0,4.0,3.0,Married,0,3,Manager,28502.0
+203535,0,34.0,0,1,32.0,Others,1,5.0,4.0,Unmarried,0,1,Manager,22998.0
+202300,0,41.0,0,1,,Others,1,3.0,3.0,Married,1,3,Executive,19766.0
+202003,0,40.0,1,3,11.0,Others,1,4.0,5.0,Married,1,5,Senior Manager,25475.0
+200683,1,25.0,0,3,25.0,Small Business,1,4.0,4.0,Divorced,1,2,Executive,17413.0
+201029,0,,1,1,15.0,Others,1,3.0,3.0,Married,0,3,Manager,
+202057,0,52.0,0,1,17.0,Others,0,3.0,3.0,Married,0,1,Manager,18149.0
+204664,0,45.0,0,3,35.0,Small Business,0,2.0,3.0,Married,1,1,AVP,31998.0
+201625,0,29.0,1,1,,Large Business,1,3.0,3.0,Married,0,3,Manager,
+203552,0,36.0,0,1,7.0,Small Business,1,5.0,5.0,Unmarried,0,1,Executive,21128.0
+200682,0,32.0,1,1,6.0,Others,0,4.0,4.0,Divorced,0,3,Executive,17332.0
+200774,0,55.0,1,1,8.0,Small Business,1,4.0,5.0,Unmarried,0,3,AVP,31756.0
+204008,0,33.0,0,3,13.0,Small Business,1,4.0,3.0,Unmarried,0,5,Manager,23688.0
+200302,0,28.0,0,1,22.0,Small Business,1,2.0,5.0,Unmarried,0,5,Manager,20661.0
+200526,0,39.0,0,1,,Large Business,0,4.0,3.0,Unmarried,0,2,Manager,19553.0
+202045,0,54.0,0,1,25.0,Small Business,0,3.0,5.0,Married,1,3,Manager,20485.0
+203621,0,51.0,0,1,24.0,Others,0,5.0,5.0,Married,0,3,Senior Manager,31947.0
+204525,0,36.0,0,1,14.0,Others,1,4.0,3.0,Unmarried,0,3,Senior Manager,28899.0
+204403,0,44.0,0,1,13.0,Others,1,5.0,3.0,Married,1,3,AVP,35305.0
+200328,0,33.0,1,3,,Small Business,1,4.0,3.0,Unmarried,0,3,Manager,19682.0
+204695,0,27.0,0,1,7.0,Small Business,1,5.0,5.0,Married,0,3,Executive,22633.0
+201934,0,37.0,0,1,6.0,Large Business,0,3.0,3.0,Unmarried,0,5,Senior Manager,22491.0
+200545,0,30.0,0,3,33.0,Small Business,1,3.0,3.0,Married,0,3,Manager,20304.0
+202433,1,38.0,1,1,15.0,Others,1,3.0,5.0,Married,0,3,Manager,21893.0
+201975,0,26.0,0,1,12.0,Others,0,3.0,3.0,Married,1,1,Executive,17659.0
+201070,0,28.0,1,3,,Others,1,3.0,5.0,Unmarried,0,3,Manager,19898.0
+200300,0,41.0,0,3,8.0,Others,1,3.0,4.0,Unmarried,0,3,AVP,31015.0
+204529,0,28.0,1,1,10.0,Small Business,1,4.0,3.0,Married,0,1,Executive,20384.0
+202265,0,37.0,0,3,16.0,Others,0,4.0,3.0,Married,1,4,Manager,21694.0
+202270,1,28.0,1,1,6.0,Small Business,1,4.0,4.0,Married,0,4,Executive,17596.0
+202320,0,32.0,1,3,8.0,Others,0,3.0,5.0,Married,0,3,Executive,17827.0
+200563,0,25.0,0,3,32.0,Small Business,0,3.0,3.0,Unmarried,0,4,Manager,21180.0
+201737,0,,1,1,11.0,Others,1,1.0,5.0,Married,0,5,Manager,
+203743,0,41.0,0,1,7.0,Others,0,4.0,3.0,Married,0,3,Manager,25191.0
+201710,0,39.0,0,1,6.0,Small Business,0,3.0,3.0,Married,0,3,Executive,17232.0
+204217,0,32.0,0,3,14.0,Large Business,1,2.0,3.0,Married,0,1,Manager,25607.0
+204358,0,49.0,0,3,9.0,Small Business,0,4.0,3.0,Married,0,5,Manager,22729.0
+201227,0,,0,1,8.0,Others,1,3.0,3.0,Married,0,5,Executive,18477.0
+201615,0,30.0,0,1,11.0,Large Business,0,3.0,5.0,Married,0,5,Executive,18204.0
+201531,0,38.0,1,1,35.0,Others,0,3.0,3.0,Unmarried,0,3,Manager,17406.0
+201459,0,,0,1,19.0,Others,1,4.0,4.0,Married,1,4,Manager,
+204738,0,43.0,0,1,36.0,Small Business,1,6.0,3.0,Unmarried,0,3,Manager,22950.0
+204080,0,42.0,0,1,21.0,Others,1,4.0,3.0,Married,0,4,Executive,21129.0
+200796,1,,0,1,10.0,Large Business,1,3.0,3.0,Divorced,1,3,Executive,18691.0
+200781,0,,0,1,6.0,Small Business,1,4.0,5.0,Divorced,0,3,Executive,
+203082,0,26.0,0,3,11.0,Small Business,1,5.0,5.0,Divorced,0,3,Manager,22934.0
+201897,0,60.0,1,3,34.0,Small Business,0,4.0,5.0,Married,0,1,Senior Manager,25266.0
+204424,0,55.0,0,2,26.0,Small Business,1,4.0,4.0,Married,0,3,Senior Manager,29403.0
+201887,0,40.0,0,3,8.0,Others,0,3.0,3.0,Married,0,3,VP,33041.0
+202503,0,38.0,0,1,7.0,Others,1,5.0,3.0,Married,0,5,Manager,24671.0
+202231,1,36.0,0,1,,Others,1,3.0,3.0,Married,0,4,Manager,19834.0
+202158,1,19.0,0,3,27.0,Others,1,4.0,4.0,Unmarried,1,1,Executive,17121.0
+204420,0,38.0,0,1,10.0,Others,1,4.0,3.0,Married,0,1,Senior Manager,28112.0
+200294,0,37.0,1,1,15.0,Small Business,1,3.0,3.0,Divorced,1,2,Executive,17326.0
+202026,0,53.0,0,1,12.0,Others,1,3.0,3.0,Unmarried,0,5,Manager,17450.0
+204256,0,32.0,0,1,14.0,Small Business,0,4.0,3.0,Unmarried,1,4,Senior Manager,25821.0
+201810,0,37.0,0,1,11.0,Small Business,1,3.0,3.0,Married,0,3,Manager,21347.0
+201784,0,39.0,0,1,16.0,Small Business,1,3.0,5.0,Married,1,3,AVP,32068.0
+202303,0,27.0,0,1,12.0,Others,1,4.0,3.0,Married,0,1,Executive,17539.0
+200736,0,48.0,0,1,10.0,Others,1,4.0,3.0,Unmarried,0,5,Senior Manager,25999.0
+204197,0,56.0,0,1,27.0,Large Business,1,4.0,3.0,Married,1,1,Manager,24093.0
+200072,0,31.0,0,1,6.0,Small Business,1,3.0,4.0,Unmarried,0,3,Executive,17501.0
+204816,1,28.0,0,3,9.0,Small Business,0,6.0,4.0,Unmarried,1,5,VP,21195.0
+200708,0,36.0,1,3,14.0,Large Business,1,3.0,3.0,Married,0,3,Manager,20079.0
+201833,1,33.0,0,3,11.0,Small Business,0,3.0,3.0,Unmarried,1,1,Executive,17851.0
+203981,0,46.0,0,1,14.0,Others,1,4.0,5.0,Married,0,3,Senior Manager,28402.0
+203787,0,30.0,0,1,14.0,Others,1,4.0,5.0,Unmarried,0,4,Executive,20740.0
+203624,0,37.0,0,1,14.0,Others,1,4.0,4.0,Unmarried,0,1,Executive,20691.0
+203281,0,41.0,1,1,16.0,Small Business,0,4.0,3.0,Unmarried,0,4,Senior Manager,32177.0
+203222,0,47.0,0,1,15.0,Others,0,5.0,5.0,Married,1,2,Manager,23293.0
+200263,0,46.0,0,3,8.0,Large Business,0,5.0,4.0,Divorced,1,5,AVP,31872.0
+202758,0,40.0,0,1,17.0,Small Business,1,4.0,5.0,Divorced,1,3,AVP,35746.0
+204865,1,42.0,1,3,16.0,Others,1,6.0,3.0,Married,0,5,AVP,24829.0
+202579,0,37.0,0,1,13.0,Small Business,1,4.0,4.0,Married,0,4,Manager,23619.0
+201100,0,35.0,0,3,34.0,Others,0,4.0,3.0,Married,0,4,Executive,17430.0
+201056,1,28.0,1,3,6.0,Large Business,1,3.0,3.0,Divorced,0,3,Executive,17909.0
+204745,1,32.0,1,1,22.0,Small Business,1,4.0,3.0,Married,0,4,Executive,21288.0
+201635,0,50.0,0,1,17.0,Others,0,3.0,4.0,Unmarried,0,5,VP,34926.0
+203645,1,24.0,0,1,15.0,Small Business,1,5.0,3.0,Unmarried,1,4,Executive,22667.0
+204574,1,59.0,1,1,9.0,Others,1,5.0,3.0,Married,1,1,Executive,21058.0
+204085,1,20.0,1,3,7.0,Large Business,0,6.0,5.0,Unmarried,0,3,Executive,21003.0
+203614,0,28.0,1,1,9.0,Small Business,1,4.0,3.0,Unmarried,0,3,Executive,21258.0
+204278,0,38.0,0,1,17.0,Small Business,0,4.0,5.0,Married,0,1,Executive,22130.0
+201885,1,34.0,1,3,12.0,Small Business,0,5.0,3.0,Married,0,4,Executive,17351.0
+204140,0,38.0,1,3,11.0,Small Business,1,4.0,3.0,Married,0,4,Executive,21471.0
+202762,0,28.0,0,1,12.0,Others,0,4.0,4.0,Unmarried,1,3,Executive,21156.0
+202213,0,59.0,0,1,8.0,Others,0,4.0,3.0,Unmarried,1,5,AVP,28726.0
+202947,0,35.0,0,1,7.0,Others,1,4.0,3.0,Divorced,0,3,Executive,21369.0
+200406,0,52.0,0,1,9.0,Small Business,1,4.0,3.0,Divorced,1,2,Senior Manager,22969.0
+201368,0,34.0,1,1,28.0,Others,1,4.0,3.0,Married,1,1,Manager,20747.0
+202467,0,22.0,0,1,22.0,Others,1,,3.0,Unmarried,0,3,Executive,19910.0
+200717,0,27.0,0,1,22.0,Large Business,0,3.0,4.0,Divorced,0,2,Executive,17811.0
+202171,0,53.0,0,3,8.0,Small Business,1,3.0,3.0,Married,0,3,AVP,29852.0
+204831,1,35.0,0,1,24.0,Others,0,4.0,3.0,Unmarried,1,5,Executive,23216.0
+204474,0,35.0,0,1,15.0,Others,0,4.0,5.0,Married,0,5,Manager,23799.0
+203581,0,23.0,1,1,33.0,Others,0,5.0,3.0,Married,1,3,Executive,21492.0
+202461,0,23.0,1,1,23.0,Small Business,1,3.0,3.0,Married,1,3,Executive,21613.0
+203151,0,48.0,1,1,23.0,Small Business,1,2.0,3.0,Married,1,2,Manager,23745.0
+200061,0,38.0,1,1,35.0,Others,0,3.0,3.0,Unmarried,0,3,Manager,17406.0
+201943,0,49.0,0,1,24.0,Others,1,4.0,3.0,Married,1,3,VP,34502.0
+201913,1,,1,1,10.0,Large Business,1,4.0,3.0,Unmarried,0,5,Executive,
+204366,0,46.0,0,3,9.0,Others,1,4.0,4.0,Married,0,5,Manager,23483.0
+204484,0,53.0,1,1,26.0,Small Business,1,4.0,3.0,Married,0,3,Executive,22936.0
+200978,0,40.0,0,1,8.0,Small Business,0,1.0,3.0,Married,0,3,Manager,21377.0
+204842,1,45.0,1,3,8.0,Large Business,1,4.0,3.0,Married,0,3,Executive,26656.0
+203950,1,51.0,0,3,10.0,Small Business,1,5.0,3.0,Married,1,4,Executive,21361.0
+203663,0,30.0,0,1,16.0,Small Business,0,4.0,3.0,Married,0,5,Executive,21652.0
+201685,0,41.0,0,3,12.0,Others,0,3.0,3.0,Unmarried,1,1,Senior Manager,28591.0
+204431,0,26.0,0,3,15.0,Others,1,2.0,4.0,Married,0,4,Manager,23529.0
+201055,0,34.0,1,1,21.0,Small Business,1,3.0,5.0,Married,0,4,AVP,32007.0
+203971,0,36.0,0,1,30.0,Small Business,0,4.0,5.0,Married,1,4,Executive,22692.0
+200389,0,,0,1,16.0,Others,1,3.0,4.0,Unmarried,1,5,Manager,
+202500,0,36.0,1,3,25.0,Others,1,4.0,5.0,Divorced,0,4,Senior Manager,27747.0
+202979,0,42.0,0,2,17.0,Others,1,5.0,3.0,Married,0,2,VP,37819.0
+204712,1,34.0,0,1,32.0,Small Business,1,5.0,4.0,Unmarried,1,4,Executive,20991.0
+200460,0,26.0,0,3,,Small Business,1,3.0,3.0,Married,0,5,Manager,
+204535,0,37.0,0,3,7.0,Others,1,4.0,3.0,Married,1,3,Manager,24879.0
+202405,1,32.0,1,1,9.0,Others,0,3.0,3.0,Unmarried,0,4,Executive,21209.0
+201185,0,43.0,0,1,21.0,Others,1,4.0,3.0,Married,0,3,AVP,32603.0
+200214,1,30.0,0,1,9.0,Large Business,0,3.0,5.0,Unmarried,1,4,Executive,17657.0
+204802,0,36.0,1,3,15.0,Small Business,0,5.0,3.0,Married,1,5,Senior Manager,29055.0
+204879,1,26.0,0,2,27.0,Small Business,0,4.0,4.0,Married,1,3,Executive,22347.0
+203361,0,35.0,0,3,9.0,Small Business,0,4.0,5.0,Unmarried,1,3,Manager,23216.0
+202177,0,47.0,1,1,22.0,Small Business,1,1.0,3.0,Married,1,1,Manager,20067.0
+200177,1,19.0,0,1,8.0,Others,1,4.0,3.0,Unmarried,0,5,Executive,16102.0
+202041,0,26.0,0,1,,Others,0,5.0,3.0,Married,0,4,Executive,
+203093,0,54.0,0,1,30.0,Others,0,4.0,3.0,Unmarried,0,5,AVP,32953.0
+202737,1,27.0,0,3,11.0,Small Business,1,5.0,3.0,Unmarried,1,2,Manager,24506.0
+204674,0,54.0,1,3,9.0,Small Business,0,5.0,4.0,Married,0,1,Senior Manager,26203.0
+202578,0,27.0,0,2,32.0,Others,0,4.0,3.0,Divorced,0,4,Executive,21620.0
+204763,1,44.0,0,3,16.0,Small Business,0,6.0,3.0,Unmarried,0,1,Manager,24024.0
+200289,0,28.0,0,1,14.0,Others,0,3.0,3.0,Unmarried,0,4,Executive,18310.0
+200843,0,26.0,0,1,,Small Business,1,1.0,3.0,Divorced,0,5,Executive,
+201187,0,38.0,1,1,,Others,1,3.0,3.0,Married,0,5,Manager,19735.0
+201303,0,47.0,0,1,10.0,Others,0,4.0,4.0,Married,1,4,Senior Manager,25333.0
+203483,1,35.0,0,2,16.0,Large Business,0,4.0,3.0,Divorced,0,1,Executive,21420.0
+204827,1,46.0,0,3,20.0,Small Business,1,2.0,3.0,Unmarried,1,3,AVP,37502.0
+200270,0,55.0,0,1,6.0,Small Business,1,3.0,5.0,Unmarried,1,2,VP,34045.0
+201478,0,38.0,1,1,29.0,Others,1,4.0,3.0,Unmarried,0,3,Senior Manager,24526.0
+203969,0,34.0,1,1,7.0,Others,0,4.0,3.0,Unmarried,1,1,Senior Manager,32136.0
+203665,0,46.0,1,1,7.0,Others,1,5.0,3.0,Married,0,1,Senior Manager,29426.0
+202698,0,30.0,0,3,27.0,Small Business,1,4.0,3.0,Married,0,2,Manager,25609.0
+202605,0,28.0,1,1,16.0,Small Business,1,4.0,4.0,Married,0,3,Executive,20702.0
+201047,0,33.0,0,3,,Small Business,1,3.0,5.0,Divorced,0,3,Manager,
+200506,0,37.0,0,1,9.0,Others,1,3.0,3.0,Divorced,0,2,Senior Manager,24434.0
+200671,0,34.0,0,1,16.0,Others,1,3.0,4.0,Married,0,2,Executive,17008.0
+201250,0,29.0,1,1,6.0,Others,1,1.0,3.0,Unmarried,1,3,Manager,21294.0
+203739,0,42.0,0,3,11.0,Small Business,0,4.0,3.0,Married,1,1,Senior Manager,29125.0
+203542,0,41.0,1,1,15.0,Others,1,4.0,3.0,Married,1,3,Manager,22747.0
+201583,0,24.0,0,1,24.0,Others,1,3.0,3.0,Married,0,4,Executive,17774.0
+202198,0,54.0,0,1,23.0,Large Business,0,3.0,3.0,Married,0,5,Senior Manager,25739.0
+202622,0,47.0,0,3,7.0,Small Business,0,4.0,5.0,Married,0,2,Senior Manager,29131.0
+200211,0,30.0,1,1,6.0,Others,1,4.0,3.0,Unmarried,0,5,Senior Manager,23474.0
+203641,0,21.0,0,3,16.0,Others,1,4.0,5.0,Unmarried,0,1,Executive,21406.0
+203618,0,26.0,1,1,9.0,Others,1,2.0,3.0,Married,0,1,Manager,23884.0
+203676,0,36.0,0,1,34.0,Others,1,4.0,3.0,Married,0,5,Manager,25561.0
+202571,1,20.0,0,3,29.0,Small Business,1,4.0,3.0,Unmarried,1,2,Executive,20353.0
+200434,0,31.0,0,1,15.0,Others,1,3.0,4.0,Married,0,3,Senior Manager,25648.0
+201085,1,,1,1,9.0,Others,0,3.0,3.0,Unmarried,0,4,Executive,
+204390,0,25.0,0,1,24.0,Others,1,5.0,4.0,Married,0,3,Executive,20805.0
+203858,0,48.0,0,1,32.0,Small Business,1,4.0,3.0,Unmarried,0,3,Senior Manager,27311.0
+202887,1,23.0,1,1,11.0,Large Business,1,5.0,3.0,Unmarried,0,5,Executive,22572.0
+201517,0,37.0,0,1,25.0,Others,1,3.0,4.0,Married,0,4,Executive,18022.0
+200496,0,,0,3,28.0,Large Business,1,3.0,3.0,Unmarried,0,2,Executive,18447.0
+200234,1,33.0,0,1,20.0,Small Business,1,3.0,3.0,Divorced,1,2,Executive,17436.0
+203524,0,47.0,0,3,10.0,Others,0,4.0,4.0,Divorced,0,4,AVP,35284.0
+200904,0,48.0,0,1,6.0,Others,1,4.0,3.0,Unmarried,0,3,VP,33265.0
+201300,0,34.0,0,3,14.0,Large Business,1,1.0,3.0,Married,0,1,Manager,21799.0
+200331,0,27.0,1,3,6.0,Small Business,1,3.0,4.0,Divorced,1,2,Manager,21349.0
+203558,0,49.0,0,1,22.0,Others,0,4.0,5.0,Married,0,1,Executive,21045.0
+203582,0,51.0,1,1,27.0,Small Business,1,4.0,3.0,Married,1,4,AVP,29923.0
+204252,0,31.0,0,3,12.0,Small Business,0,5.0,3.0,Married,0,1,Manager,24796.0
+203584,0,45.0,0,1,14.0,Small Business,0,4.0,3.0,Married,1,4,VP,37727.0
+201363,0,33.0,0,3,16.0,Small Business,1,3.0,3.0,Unmarried,0,1,Manager,20487.0
+202149,0,31.0,1,3,26.0,Small Business,0,3.0,3.0,Married,0,1,Manager,21932.0
+204323,0,43.0,1,1,36.0,Others,0,4.0,3.0,Married,0,3,Manager,23234.0
+202694,1,38.0,1,1,17.0,Small Business,1,4.0,3.0,Married,0,3,Senior Manager,28726.0
+203935,1,37.0,0,3,16.0,Others,1,5.0,5.0,Unmarried,0,1,Executive,22085.0
+202215,0,55.0,1,1,24.0,Small Business,1,3.0,4.0,Married,1,5,Manager,21385.0
+201337,0,28.0,0,3,9.0,Small Business,0,3.0,4.0,Married,0,1,Executive,17856.0
+201497,0,42.0,0,3,14.0,Small Business,1,3.0,4.0,Married,0,3,Manager,21825.0
+201656,0,40.0,0,1,10.0,Small Business,0,3.0,3.0,Married,0,5,VP,34033.0
+200025,0,53.0,0,1,11.0,Others,0,3.0,3.0,Married,0,5,VP,34094.0
+200439,1,31.0,1,1,26.0,Others,1,3.0,3.0,Divorced,0,3,Senior Manager,24824.0
+204797,0,34.0,0,1,16.0,Small Business,1,4.0,3.0,Married,0,1,Executive,21459.0
+203451,1,30.0,1,1,21.0,Others,0,4.0,3.0,Unmarried,1,5,Senior Manager,26231.0
+204018,0,38.0,1,1,9.0,Others,1,5.0,3.0,Married,0,1,Manager,23841.0
+204491,0,38.0,0,1,17.0,Others,0,4.0,5.0,Married,1,3,Executive,21460.0
+203101,0,30.0,0,1,14.0,Small Business,0,5.0,3.0,Married,0,5,Executive,21210.0
+200466,0,41.0,0,3,8.0,Others,0,3.0,5.0,Divorced,0,5,AVP,31595.0
+200704,0,35.0,0,3,9.0,Others,1,3.0,3.0,Married,0,5,Senior Manager,22823.0
+201769,0,51.0,0,1,8.0,Small Business,1,5.0,4.0,Married,0,1,Manager,20482.0
+203816,0,40.0,0,1,16.0,Small Business,1,4.0,5.0,Married,0,4,Manager,23829.0
+200684,0,40.0,0,3,16.0,Small Business,1,4.0,4.0,Married,0,4,Senior Manager,24705.0
+202227,0,34.0,0,3,6.0,Small Business,1,1.0,3.0,Married,0,5,Manager,24725.0
+204341,0,61.0,1,3,35.0,Small Business,0,5.0,5.0,Married,0,1,Senior Manager,28944.0
+203392,0,31.0,0,1,24.0,Small Business,0,4.0,5.0,Divorced,1,4,Senior Manager,30594.0
+201566,0,24.0,0,3,9.0,Others,0,,3.0,Married,0,4,Manager,19999.0
+200685,0,26.0,1,3,,Small Business,1,4.0,5.0,Unmarried,0,3,Manager,
+200381,0,30.0,0,3,8.0,Large Business,1,3.0,4.0,Divorced,0,3,Executive,17476.0
+203175,1,21.0,0,1,18.0,Small Business,0,5.0,5.0,Unmarried,1,3,Executive,21278.0
+204269,0,27.0,0,3,7.0,Others,1,4.0,3.0,Married,0,5,Manager,23974.0
+201733,0,46.0,0,3,8.0,Large Business,0,5.0,4.0,Married,1,5,AVP,31872.0
+200357,1,21.0,1,3,6.0,Large Business,0,4.0,4.0,Unmarried,1,5,Executive,17174.0
+203173,0,36.0,0,1,32.0,Small Business,0,4.0,3.0,Married,1,3,Senior Manager,29066.0
+200080,0,30.0,0,1,6.0,Others,1,4.0,3.0,Divorced,1,2,Manager,20126.0
+204861,1,53.0,1,3,14.0,Small Business,0,4.0,3.0,Married,1,4,Executive,27124.0
+200525,1,24.0,0,3,,Others,0,3.0,3.0,Unmarried,0,2,Manager,19577.0
+200623,0,,1,1,11.0,Others,1,4.0,3.0,Married,0,5,Executive,
+200847,0,34.0,1,1,6.0,Small Business,1,4.0,5.0,Unmarried,0,2,Manager,20343.0
+204040,1,59.0,0,1,30.0,Small Business,0,4.0,3.0,Married,0,3,Senior Manager,28990.0
+204220,0,33.0,0,3,14.0,Others,1,5.0,3.0,Married,0,3,Manager,24162.0
+201728,0,51.0,0,1,6.0,Others,1,3.0,3.0,Married,0,4,Executive,17723.0
+201412,0,,0,1,6.0,Small Business,1,3.0,4.0,Married,0,5,Executive,
+200855,0,37.0,0,1,6.0,Others,0,4.0,3.0,Divorced,0,2,Manager,21474.0
+204258,0,36.0,0,1,12.0,Large Business,1,4.0,4.0,Unmarried,0,3,Senior Manager,26773.0
+204116,0,35.0,1,1,17.0,Small Business,1,4.0,3.0,Married,1,3,Executive,22493.0
+201424,0,35.0,0,1,15.0,Small Business,1,3.0,3.0,Unmarried,0,4,Manager,20098.0
+200680,0,36.0,0,1,,Others,1,3.0,3.0,Unmarried,0,3,Executive,19678.0
+202458,1,29.0,0,1,31.0,Others,1,5.0,3.0,Unmarried,1,2,Executive,20706.0
+204508,0,30.0,0,1,30.0,Others,1,2.0,3.0,Married,0,1,Executive,21378.0
+200960,0,,1,3,6.0,Small Business,0,3.0,5.0,Married,0,3,Manager,
+200186,0,40.0,0,1,10.0,Small Business,0,3.0,3.0,Divorced,0,5,VP,34033.0
+204285,0,30.0,0,1,30.0,Others,1,4.0,3.0,Unmarried,0,3,Executive,20879.0
+203273,1,34.0,0,3,16.0,Small Business,0,4.0,5.0,Unmarried,1,3,Manager,26902.0
+200209,0,46.0,0,1,6.0,Small Business,1,3.0,5.0,Married,0,2,Senior Manager,24396.0
+202276,0,52.0,0,1,5.0,Others,1,3.0,4.0,Unmarried,0,3,Senior Manager,25445.0
+200969,0,48.0,0,1,10.0,Others,1,3.0,3.0,Unmarried,0,5,Senior Manager,22898.0
+201242,0,40.0,0,3,13.0,Small Business,1,3.0,4.0,Unmarried,0,4,VP,34833.0
+204524,0,28.0,0,1,12.0,Large Business,1,5.0,3.0,Married,1,3,Senior Manager,31486.0
+202644,0,28.0,1,1,7.0,Large Business,1,5.0,5.0,Divorced,0,3,Manager,22976.0
+202471,0,43.0,0,3,15.0,Small Business,1,4.0,4.0,Divorced,0,3,Manager,25503.0
+203225,0,27.0,0,1,7.0,Small Business,1,5.0,5.0,Divorced,0,3,Executive,22633.0
+201681,0,30.0,1,1,6.0,Others,1,4.0,3.0,Unmarried,0,5,Senior Manager,23474.0
+202744,0,42.0,0,3,9.0,Others,1,4.0,4.0,Unmarried,0,3,AVP,34693.0
+202319,1,43.0,0,3,15.0,Small Business,0,5.0,3.0,Unmarried,0,1,Manager,20346.0
+201852,1,26.0,1,1,9.0,Large Business,1,3.0,5.0,Unmarried,0,3,Executive,18102.0
+202163,1,36.0,0,3,9.0,Others,1,4.0,3.0,Married,1,1,Senior Manager,25325.0
+202255,0,40.0,0,1,26.0,Large Business,1,3.0,3.0,Married,0,3,Senior Manager,25322.0
+203725,1,36.0,0,3,34.0,Others,1,4.0,3.0,Unmarried,1,5,Manager,24491.0
+203520,0,55.0,1,1,18.0,Small Business,0,4.0,3.0,Married,0,3,AVP,34710.0
+203929,0,30.0,0,1,28.0,Others,0,2.0,5.0,Married,0,5,Senior Manager,28658.0
+201020,0,,0,1,6.0,Large Business,1,3.0,3.0,Divorced,0,3,Executive,18420.0
+204023,0,23.0,0,1,22.0,Small Business,0,4.0,3.0,Unmarried,0,1,Executive,21549.0
+200724,0,24.0,0,1,,Small Business,0,4.0,3.0,Married,0,3,Manager,
+201854,0,36.0,0,3,8.0,Small Business,1,4.0,3.0,Married,0,1,Senior Manager,22596.0
+201040,0,40.0,1,1,14.0,Small Business,1,4.0,4.0,Married,0,1,Senior Manager,28757.0
+204823,1,20.0,0,3,12.0,Others,1,4.0,4.0,Unmarried,1,4,Senior Manager,21672.0
+204035,0,34.0,1,3,29.0,Small Business,1,4.0,4.0,Married,0,1,Manager,24824.0
+202066,0,35.0,0,1,6.0,Others,0,1.0,3.0,Unmarried,0,3,Executive,17506.0
+203534,0,30.0,0,1,15.0,Others,0,6.0,5.0,Married,0,1,Manager,28393.0
+203284,0,36.0,0,1,7.0,Small Business,1,5.0,3.0,Divorced,0,2,Executive,20936.0
+201197,0,20.0,0,3,15.0,Others,1,3.0,5.0,Unmarried,0,1,Executive,17728.0
+204742,1,19.0,1,1,15.0,Small Business,1,4.0,3.0,Unmarried,0,5,Executive,20582.0
+204646,1,31.0,1,1,12.0,Small Business,0,4.0,4.0,Unmarried,0,3,Executive,21100.0
+200905,0,29.0,0,1,6.0,Others,0,4.0,3.0,Married,0,2,AVP,31124.0
+200777,1,21.0,0,1,16.0,Others,0,4.0,5.0,Unmarried,0,3,Executive,16416.0
+201976,0,37.0,0,1,9.0,Others,1,3.0,3.0,Married,0,1,Senior Manager,24434.0
+204108,0,46.0,1,1,9.0,Small Business,1,5.0,3.0,Married,0,4,AVP,35470.0
+203936,0,35.0,0,1,14.0,Others,0,4.0,4.0,Unmarried,0,5,Senior Manager,30672.0
+201317,0,27.0,1,1,11.0,Others,0,3.0,3.0,Unmarried,1,1,Executive,17379.0
+204545,0,45.0,0,1,15.0,Others,1,2.0,3.0,Married,1,3,Executive,21496.0
+201516,0,34.0,1,3,,Small Business,1,3.0,3.0,Unmarried,0,5,Manager,19568.0
+201657,0,55.0,0,1,20.0,Small Business,1,1.0,4.0,Unmarried,0,1,VP,33722.0
+203606,1,36.0,0,3,17.0,Small Business,1,5.0,5.0,Married,0,5,Senior Manager,28984.0
+202392,1,44.0,0,3,15.0,Others,1,4.0,5.0,Married,0,1,Executive,34190.0
+204873,1,41.0,0,3,14.0,Small Business,1,4.0,4.0,Unmarried,0,5,Executive,23339.0
+203610,0,49.0,1,1,11.0,Small Business,1,5.0,3.0,Married,0,5,AVP,33880.0
+200441,0,42.0,1,1,11.0,Others,1,3.0,3.0,Divorced,0,3,Executive,17093.0
+203533,0,38.0,0,1,20.0,Small Business,1,4.0,3.0,Married,0,1,Manager,22963.0
+202436,1,58.0,0,1,27.0,Small Business,0,3.0,4.0,Married,0,3,Manager,25008.0
+201191,0,31.0,0,3,11.0,Others,0,3.0,3.0,Married,0,1,Manager,20476.0
+201005,0,29.0,0,2,23.0,Others,1,4.0,5.0,Unmarried,0,3,Senior Manager,22988.0
+201575,0,59.0,1,2,8.0,Others,0,4.0,3.0,Married,0,1,VP,33844.0
+203753,0,27.0,0,3,17.0,Small Business,1,4.0,3.0,Unmarried,0,1,Manager,23362.0
+204743,1,34.0,0,3,16.0,Small Business,0,4.0,5.0,Unmarried,1,3,Manager,26902.0
+203254,0,47.0,0,3,10.0,Small Business,1,4.0,3.0,Divorced,0,2,AVP,36143.0
+201501,0,44.0,0,1,16.0,Others,1,3.0,3.0,Married,1,3,Manager,21465.0
+201730,0,32.0,1,1,13.0,Others,1,1.0,4.0,Married,0,1,Executive,17794.0
+200790,0,33.0,0,1,11.0,Others,1,4.0,3.0,Married,0,3,Senior Manager,22119.0
+200477,0,50.0,1,2,9.0,Small Business,1,3.0,4.0,Divorced,0,2,VP,33200.0
+204715,1,51.0,1,3,7.0,Others,1,4.0,3.0,Unmarried,1,1,Manager,23406.0
+200069,1,,0,1,15.0,Small Business,1,4.0,3.0,Divorced,1,2,Executive,18388.0
+204489,0,55.0,0,1,26.0,Small Business,0,4.0,5.0,Married,1,3,Manager,24163.0
+203866,0,36.0,0,1,18.0,Small Business,1,4.0,3.0,Married,1,5,Executive,21338.0
+203442,0,27.0,0,1,9.0,Small Business,1,5.0,3.0,Unmarried,0,3,Executive,22582.0
+202825,0,31.0,0,3,9.0,Large Business,1,4.0,4.0,Divorced,0,3,Executive,21154.0
+203893,0,33.0,0,1,9.0,Large Business,1,4.0,5.0,Unmarried,0,1,Executive,21117.0
+201482,0,31.0,0,1,32.0,Others,1,3.0,3.0,Married,0,3,Executive,17911.0
+202512,0,36.0,1,1,7.0,Small Business,1,4.0,5.0,Divorced,0,2,Executive,20872.0
+203062,0,26.0,0,1,9.0,Small Business,1,2.0,5.0,Unmarried,0,2,Executive,22102.0
+203256,0,44.0,1,1,34.0,Others,0,4.0,5.0,Divorced,0,4,Senior Manager,29498.0
+202658,1,31.0,0,1,10.0,Large Business,0,4.0,5.0,Unmarried,1,4,Executive,21335.0
+202751,0,39.0,0,1,32.0,Others,0,5.0,4.0,Divorced,0,3,Senior Manager,30739.0
+200912,0,26.0,0,1,10.0,Others,1,3.0,3.0,Unmarried,1,1,Executive,17875.0
+201537,0,45.0,0,1,13.0,Others,1,3.0,5.0,Married,0,3,Senior Manager,24724.0
+203407,0,39.0,0,3,9.0,Others,0,4.0,5.0,Married,0,4,Manager,25571.0
+203286,1,29.0,0,1,19.0,Others,0,4.0,3.0,Divorced,1,4,Executive,21193.0
+203758,0,46.0,1,3,9.0,Others,0,4.0,3.0,Married,0,1,Manager,23832.0
+202338,0,28.0,0,1,25.0,Small Business,1,4.0,5.0,Married,0,3,Executive,18196.0
+201620,0,40.0,1,1,32.0,Small Business,0,3.0,4.0,Married,0,1,Manager,20605.0
+200233,0,50.0,0,3,6.0,Small Business,0,3.0,3.0,Married,0,2,VP,34517.0
+204010,0,25.0,0,3,10.0,Others,0,4.0,3.0,Married,0,4,Manager,23677.0
+201799,0,47.0,0,1,11.0,Others,1,3.0,3.0,Married,0,1,VP,33300.0
+203587,0,46.0,1,3,33.0,Small Business,1,5.0,5.0,Married,0,3,Manager,23063.0
+204028,0,35.0,0,1,13.0,Others,0,5.0,4.0,Married,0,3,Manager,23183.0
+200733,0,26.0,0,1,8.0,Small Business,1,1.0,3.0,Divorced,0,3,Manager,20472.0
+204611,0,30.0,1,3,27.0,Large Business,0,4.0,3.0,Married,0,3,Executive,20835.0
+204231,1,53.0,0,1,15.0,Small Business,1,5.0,4.0,Married,0,1,Manager,23619.0
+202411,1,30.0,1,3,,Small Business,0,3.0,3.0,Unmarried,1,5,Executive,19627.0
+204274,0,58.0,0,1,7.0,Small Business,1,4.0,3.0,Married,0,3,Manager,25433.0
+204234,0,28.0,0,3,9.0,Others,1,4.0,3.0,Unmarried,1,4,Manager,23156.0
+203067,0,31.0,1,1,12.0,Others,1,5.0,3.0,Married,0,5,Executive,22439.0
+203963,0,36.0,0,1,15.0,Others,1,2.0,3.0,Married,0,5,Executive,20947.0
+203417,0,36.0,0,1,7.0,Small Business,0,5.0,3.0,Divorced,0,1,Manager,24041.0
+203171,0,19.0,1,1,,Others,1,4.0,3.0,Unmarried,0,2,Executive,19729.0
+204074,0,23.0,0,1,26.0,Small Business,1,4.0,3.0,Married,0,1,Executive,21001.0
+202351,0,32.0,1,1,8.0,Others,0,,3.0,Unmarried,1,5,Manager,19998.0
+203767,0,29.0,1,2,7.0,Others,1,4.0,3.0,Married,0,4,Executive,21384.0
+202997,0,41.0,0,1,9.0,Small Business,0,5.0,3.0,Unmarried,1,3,Executive,21020.0
+203754,0,59.0,1,1,22.0,Others,1,4.0,3.0,Married,1,1,AVP,34465.0
+200589,1,29.0,0,1,6.0,Others,0,4.0,5.0,Divorced,1,2,Executive,17319.0
+204863,1,40.0,0,3,14.0,Others,1,4.0,3.0,Married,1,1,Executive,23212.0
+200159,0,34.0,1,3,8.0,Small Business,0,3.0,3.0,Divorced,0,5,Executive,17231.0
+204300,0,38.0,0,1,21.0,Others,0,4.0,5.0,Married,0,4,Executive,21712.0
+200648,0,37.0,1,3,27.0,Small Business,0,3.0,3.0,Divorced,0,2,Executive,17973.0
+203902,0,36.0,0,1,7.0,Others,0,6.0,3.0,Married,0,3,Executive,21655.0
+200812,0,43.0,1,1,33.0,Others,0,3.0,5.0,Divorced,0,4,Senior Manager,25820.0
+201484,1,28.0,0,1,30.0,Others,1,4.0,3.0,Unmarried,1,1,Executive,17028.0
+202061,1,33.0,0,3,22.0,Small Business,0,3.0,5.0,Unmarried,0,3,Manager,20324.0
+204147,0,51.0,0,3,7.0,Small Business,0,4.0,3.0,Married,0,1,VP,38195.0
+200339,0,27.0,0,3,14.0,Small Business,0,3.0,4.0,Divorced,0,2,Manager,21214.0
+200728,0,54.0,0,1,23.0,Large Business,0,3.0,3.0,Divorced,0,5,Senior Manager,25739.0
+203315,1,25.0,0,1,24.0,Others,0,4.0,4.0,Divorced,0,2,Executive,20888.0
+201630,0,22.0,0,1,25.0,Small Business,1,3.0,3.0,Married,0,1,Executive,17323.0
+201554,0,34.0,0,1,,Small Business,1,3.0,4.0,Married,0,5,Manager,
+203755,0,19.0,1,1,21.0,Small Business,0,4.0,3.0,Unmarried,0,5,Executive,20192.0
+200172,0,36.0,1,1,9.0,Small Business,1,3.0,4.0,Unmarried,0,4,Executive,17088.0
+203927,0,35.0,0,1,26.0,Small Business,1,4.0,3.0,Married,0,3,Executive,21339.0
+202146,0,,0,1,27.0,Others,0,3.0,3.0,Married,1,3,Manager,
+204173,1,32.0,1,1,36.0,Small Business,1,5.0,4.0,Unmarried,0,3,Executive,22157.0
+202678,1,34.0,0,1,21.0,Small Business,1,4.0,3.0,Divorced,1,2,Executive,21114.0
+200598,1,28.0,0,1,,Small Business,1,3.0,3.0,Unmarried,0,3,Executive,
+204232,0,28.0,0,1,12.0,Others,0,4.0,4.0,Unmarried,1,3,Executive,21156.0
+201138,0,50.0,1,1,26.0,Small Business,1,3.0,3.0,Married,1,4,AVP,26245.0
+202768,0,31.0,0,1,35.0,Small Business,0,4.0,3.0,Divorced,0,3,Manager,24453.0
+202702,0,52.0,0,1,7.0,Others,1,4.0,3.0,Divorced,0,4,Executive,21401.0
+204793,0,61.0,0,3,14.0,Small Business,1,2.0,3.0,Married,1,5,Manager,23898.0
+203695,0,31.0,0,3,22.0,Small Business,1,5.0,5.0,Married,0,1,Senior Manager,25818.0
+201113,0,,1,1,6.0,Large Business,1,3.0,5.0,Married,0,4,Manager,
+204372,0,41.0,1,3,35.0,Others,1,6.0,5.0,Married,0,5,Senior Manager,29610.0
+200480,1,30.0,1,3,18.0,Others,1,4.0,5.0,Divorced,0,5,Executive,17033.0
+202685,0,33.0,1,3,33.0,Small Business,1,4.0,3.0,Divorced,0,4,Manager,23143.0
+201443,0,42.0,0,1,8.0,Others,1,3.0,3.0,Married,0,3,VP,33880.0
+204176,0,33.0,0,1,9.0,Large Business,1,5.0,5.0,Unmarried,0,4,Manager,20854.0
+202329,0,29.0,0,1,21.0,Others,0,5.0,3.0,Married,1,5,Executive,17168.0
+204586,0,43.0,0,3,21.0,Small Business,0,5.0,3.0,Unmarried,0,3,Manager,24922.0
+202335,0,,0,3,35.0,Others,1,3.0,5.0,Married,0,1,Manager,
+201481,0,,0,1,21.0,Others,0,4.0,3.0,Unmarried,1,1,Manager,
+204199,0,38.0,0,1,7.0,Others,0,4.0,3.0,Unmarried,0,1,Executive,20793.0
+202666,0,38.0,1,1,18.0,Others,1,4.0,3.0,Married,1,3,Senior Manager,30863.0
+201168,0,,1,1,8.0,Large Business,0,3.0,3.0,Unmarried,1,3,Executive,
+201202,0,38.0,0,1,10.0,Small Business,0,3.0,3.0,Married,0,5,Executive,18306.0
+200464,0,37.0,0,1,6.0,Large Business,0,3.0,3.0,Unmarried,0,5,Senior Manager,22491.0
+203925,0,30.0,0,1,22.0,Others,0,5.0,3.0,Unmarried,1,1,Manager,22871.0
+203161,0,28.0,0,1,23.0,Large Business,0,4.0,4.0,Divorced,0,2,Executive,21489.0
+204171,0,41.0,0,1,9.0,Small Business,1,4.0,3.0,Married,0,5,VP,38114.0
+203762,0,30.0,1,1,27.0,Small Business,1,4.0,3.0,Married,0,3,Executive,22490.0
+200725,1,,0,1,20.0,Others,1,4.0,4.0,Married,1,5,Executive,
+204344,0,36.0,0,1,29.0,Others,1,6.0,3.0,Unmarried,0,4,Executive,22908.0
+200601,0,40.0,1,1,22.0,Small Business,1,4.0,3.0,Unmarried,0,5,Manager,20094.0
+200524,0,34.0,0,1,15.0,Small Business,0,4.0,4.0,Unmarried,0,2,Senior Manager,23621.0
+203303,0,30.0,0,1,22.0,Others,0,6.0,3.0,Divorced,1,5,Executive,20846.0
+200155,0,29.0,1,1,,Large Business,1,3.0,3.0,Divorced,0,3,Manager,
+201845,0,49.0,0,1,13.0,Others,1,4.0,3.0,Unmarried,0,1,Senior Manager,25965.0
+203932,0,54.0,0,3,9.0,Others,0,5.0,3.0,Married,0,3,AVP,34105.0
+200184,0,53.0,0,1,,Small Business,0,2.0,5.0,Married,0,2,Manager,
+202364,0,54.0,0,1,9.0,Others,1,3.0,3.0,Married,0,5,AVP,32779.0
+201066,0,,0,1,10.0,Small Business,0,4.0,4.0,Divorced,0,1,Executive,
+201263,0,42.0,0,1,18.0,Small Business,1,3.0,4.0,Married,0,1,Executive,17766.0
+201104,0,29.0,0,1,15.0,Others,1,1.0,3.0,Married,0,5,Executive,17451.0
+202625,0,35.0,0,1,34.0,Small Business,0,4.0,4.0,Unmarried,0,3,Executive,20989.0
+202971,0,33.0,0,3,17.0,Small Business,1,4.0,3.0,Unmarried,0,4,Manager,24074.0
+200891,0,44.0,0,1,8.0,Others,0,1.0,3.0,Divorced,0,4,Executive,17011.0
+201991,0,27.0,1,3,,Small Business,0,1.0,3.0,Married,1,1,Manager,19647.0
+203638,0,48.0,0,3,9.0,Others,0,2.0,4.0,Married,0,1,AVP,34650.0
+202804,0,58.0,0,1,7.0,Small Business,1,4.0,3.0,Divorced,0,3,Manager,25433.0
+204124,1,33.0,0,3,11.0,Small Business,1,6.0,3.0,Married,0,1,Senior Manager,29078.0
+201639,0,32.0,0,1,12.0,Others,1,3.0,3.0,Unmarried,0,1,Executive,18038.0
+201340,0,36.0,0,3,16.0,Large Business,0,4.0,3.0,Married,1,1,Manager,20673.0
+202075,0,38.0,1,1,18.0,Others,1,4.0,5.0,Married,0,5,Manager,21288.0
+201257,1,31.0,0,3,22.0,Small Business,1,3.0,3.0,Married,0,5,Senior Manager,23161.0
+200285,0,37.0,0,1,6.0,Others,0,3.0,3.0,Unmarried,0,2,Executive,17115.0
+203402,0,35.0,0,1,16.0,Others,1,4.0,3.0,Married,0,5,Senior Manager,27178.0
+201605,0,36.0,0,1,12.0,Small Business,1,,4.0,Married,0,4,Manager,19941.0
+200378,1,34.0,1,3,25.0,Small Business,1,2.0,3.0,Unmarried,1,2,Manager,20304.0
+203763,0,33.0,1,3,17.0,Small Business,1,4.0,3.0,Unmarried,0,3,Manager,23326.0
+201919,0,,1,1,14.0,Others,0,3.0,3.0,Married,0,1,Executive,
+202613,0,33.0,0,1,13.0,Others,1,4.0,3.0,Unmarried,0,2,Executive,21716.0
+202707,0,47.0,0,3,9.0,Large Business,0,6.0,4.0,Divorced,1,5,AVP,35550.0
+203728,0,40.0,0,1,17.0,Small Business,1,4.0,3.0,Unmarried,0,3,Senior Manager,32142.0
+200879,0,60.0,0,3,13.0,Small Business,1,1.0,3.0,Married,1,5,Manager,20220.0
+202298,1,18.0,1,1,14.0,Small Business,1,3.0,3.0,Unmarried,0,5,Executive,16904.0
+204181,0,26.0,1,1,12.0,Others,1,2.0,5.0,Married,0,5,Manager,22678.0
+202099,0,28.0,0,2,14.0,Small Business,1,,3.0,Married,0,1,Executive,19936.0
+203131,0,37.0,0,1,9.0,Small Business,1,4.0,3.0,Unmarried,0,5,Executive,21197.0
+203357,1,46.0,0,3,9.0,Small Business,0,6.0,4.0,Unmarried,1,5,VP,37502.0
+202821,0,37.0,0,1,9.0,Others,0,4.0,3.0,Divorced,0,5,Executive,21221.0
+202002,0,47.0,0,3,20.0,Small Business,1,,5.0,Unmarried,0,1,Manager,19960.0
+204049,0,37.0,0,1,13.0,Small Business,1,4.0,4.0,Married,0,4,Manager,23619.0
+202167,0,29.0,1,3,26.0,Large Business,0,3.0,3.0,Married,0,3,Executive,17157.0
+200366,1,41.0,1,3,10.0,Small Business,1,3.0,4.0,Unmarried,0,3,Manager,24355.0
+200324,0,30.0,0,1,34.0,Small Business,0,3.0,3.0,Divorced,0,3,Manager,20775.0
+203154,0,34.0,1,3,24.0,Others,1,4.0,3.0,Unmarried,0,3,AVP,36122.0
+201652,1,41.0,0,3,26.0,Small Business,0,3.0,4.0,Unmarried,1,4,Executive,18140.0
+203699,1,34.0,0,3,23.0,Others,0,4.0,5.0,Unmarried,1,5,Senior Manager,27242.0
+200346,0,41.0,0,1,12.0,Small Business,1,4.0,4.0,Unmarried,1,3,Manager,21032.0
+200952,1,31.0,1,3,6.0,Others,0,3.0,4.0,Unmarried,1,5,Executive,17302.0
+204862,1,31.0,0,1,9.0,Others,1,4.0,4.0,Unmarried,0,3,Executive,30594.0
+201504,1,24.0,0,1,6.0,Small Business,1,3.0,3.0,Married,1,3,Executive,17293.0
+202949,0,27.0,0,1,13.0,Others,0,4.0,3.0,Divorced,1,2,Executive,21337.0
+202807,1,34.0,0,3,12.0,Small Business,0,4.0,3.0,Unmarried,1,2,Executive,21529.0
+201321,0,47.0,0,1,15.0,Others,0,3.0,3.0,Unmarried,0,3,Executive,17105.0
+204735,0,50.0,0,3,15.0,Large Business,1,5.0,4.0,Married,0,4,AVP,31798.0
+204367,1,27.0,1,2,24.0,Others,0,4.0,3.0,Married,1,5,Executive,21419.0
+201002,0,35.0,1,1,24.0,Others,1,3.0,3.0,Unmarried,0,3,Senior Manager,24362.0
+200531,0,32.0,0,1,9.0,Others,0,3.0,3.0,Unmarried,0,2,Senior Manager,26159.0
+202251,0,,0,1,6.0,Small Business,1,4.0,5.0,Married,0,3,Executive,
+203937,0,22.0,0,1,22.0,Others,1,,3.0,Unmarried,0,5,Executive,19910.0
+203655,0,38.0,1,3,7.0,Small Business,1,6.0,3.0,Married,0,1,Manager,28203.0
+203678,0,48.0,1,3,9.0,Small Business,1,4.0,4.0,Married,0,1,Manager,23656.0
+201502,0,30.0,0,1,15.0,Small Business,1,4.0,3.0,Unmarried,0,4,Executive,17206.0
+203211,0,38.0,0,1,10.0,Others,0,4.0,4.0,Unmarried,0,4,Manager,22785.0
+203512,1,29.0,1,1,9.0,Small Business,1,5.0,5.0,Unmarried,0,4,Executive,21239.0
+203513,0,29.0,0,1,7.0,Others,1,5.0,3.0,Married,0,4,Executive,20241.0
+200498,0,22.0,0,1,12.0,Small Business,1,3.0,3.0,Divorced,0,2,Executive,17773.0
+204479,0,24.0,0,1,17.0,Small Business,1,2.0,3.0,Unmarried,0,1,Executive,22183.0
+200973,0,35.0,0,1,6.0,Small Business,0,4.0,3.0,Divorced,0,1,Manager,20363.0
+200485,0,27.0,0,1,12.0,Small Business,0,4.0,3.0,Married,0,2,Executive,17187.0
+200791,1,35.0,0,3,10.0,Large Business,1,3.0,5.0,Unmarried,1,4,Senior Manager,24582.0
+201576,0,50.0,1,1,6.0,Others,0,3.0,4.0,Married,1,1,VP,33172.0
+201205,1,32.0,0,1,8.0,Others,1,3.0,4.0,Unmarried,0,3,Executive,16393.0
+201277,0,46.0,0,1,8.0,Small Business,1,3.0,3.0,Married,1,1,VP,34328.0
+204019,0,60.0,1,2,9.0,Others,0,5.0,3.0,Married,0,1,VP,37522.0
+201467,0,27.0,0,1,10.0,Others,1,1.0,4.0,Married,1,4,Manager,21142.0
+201255,1,33.0,0,3,22.0,Others,0,3.0,5.0,Unmarried,1,5,Senior Manager,23564.0
+203410,1,59.0,0,1,14.0,Small Business,0,5.0,5.0,Divorced,1,4,Senior Manager,28686.0
+200800,1,28.0,1,1,6.0,Small Business,1,4.0,4.0,Married,0,4,Executive,17596.0
+201787,1,52.0,0,1,14.0,Small Business,1,,4.0,Married,0,1,Manager,19941.0
+202770,0,40.0,1,1,6.0,Small Business,1,5.0,3.0,Divorced,0,5,VP,37950.0
+200851,0,56.0,0,1,10.0,Large Business,0,3.0,5.0,Married,0,4,VP,34943.0
+204601,0,37.0,0,1,9.0,Small Business,1,4.0,3.0,Unmarried,0,5,Executive,21197.0
+201948,0,25.0,0,3,19.0,Small Business,1,3.0,3.0,Married,0,3,Executive,17096.0
+201642,0,36.0,1,1,9.0,Small Business,1,3.0,4.0,Unmarried,0,4,Executive,17088.0
+200938,0,58.0,0,1,29.0,Others,1,3.0,3.0,Married,0,3,Executive,17372.0
+200946,1,40.0,0,3,31.0,Small Business,1,4.0,4.0,Unmarried,1,5,Senior Manager,24094.0
+203053,0,44.0,0,1,21.0,Others,1,4.0,5.0,Divorced,0,5,AVP,35837.0
+200023,0,21.0,0,1,21.0,Others,1,3.0,3.0,Unmarried,0,3,Executive,16232.0
+200151,0,35.0,0,3,6.0,Small Business,1,3.0,4.0,Divorced,0,4,Senior Manager,22295.0
+200839,0,42.0,0,3,10.0,Small Business,1,3.0,5.0,Unmarried,0,5,Manager,20155.0
+203032,0,51.0,0,1,9.0,Small Business,1,4.0,3.0,Divorced,0,2,AVP,36317.0
+203262,0,32.0,1,3,27.0,Others,1,2.0,3.0,Divorced,0,5,Executive,21469.0
+200423,0,30.0,1,3,28.0,Others,0,3.0,5.0,Divorced,0,2,Senior Manager,23412.0
+200543,0,,1,1,30.0,Small Business,1,5.0,3.0,Unmarried,0,3,Executive,18708.0
+203047,0,46.0,0,1,9.0,Others,0,5.0,3.0,Unmarried,0,3,Executive,20952.0
+203448,0,27.0,0,1,14.0,Others,1,2.0,5.0,Unmarried,0,1,Executive,22256.0
+200400,0,39.0,1,1,6.0,Others,1,3.0,3.0,Married,1,3,VP,34197.0
+201990,0,48.0,0,3,8.0,Small Business,1,1.0,4.0,Married,0,3,Manager,23120.0
+202187,0,27.0,0,1,22.0,Large Business,0,3.0,4.0,Married,0,1,Executive,17811.0
+204036,1,57.0,0,1,21.0,Others,0,4.0,4.0,Married,1,5,Executive,23641.0
+200572,0,29.0,0,1,,Small Business,0,3.0,3.0,Divorced,0,2,Manager,
+204459,0,31.0,0,3,34.0,Small Business,1,4.0,3.0,Married,0,3,Manager,23982.0
+202032,1,33.0,0,1,6.0,Others,1,3.0,3.0,Unmarried,1,3,Executive,17686.0
+200082,0,55.0,0,3,6.0,Others,1,3.0,3.0,Divorced,0,2,Senior Manager,25239.0
+204351,0,31.0,0,3,14.0,Small Business,1,4.0,4.0,Unmarried,0,1,Executive,21661.0
+202564,0,31.0,1,1,30.0,Others,1,6.0,3.0,Married,0,3,Executive,21291.0
+202113,0,42.0,0,1,9.0,Others,0,1.0,3.0,Married,1,5,Manager,20231.0
+202869,0,51.0,0,1,36.0,Others,1,5.0,3.0,Divorced,0,5,AVP,35724.0
+202848,0,29.0,0,1,24.0,Small Business,1,4.0,5.0,Married,0,2,Manager,23236.0
+203060,0,52.0,0,3,33.0,Small Business,0,4.0,3.0,Divorced,0,3,AVP,34985.0
+200011,0,,0,1,21.0,Others,0,4.0,3.0,Unmarried,1,3,Manager,
+203574,0,36.0,0,1,35.0,Others,1,2.0,3.0,Married,0,5,Manager,22085.0
+203702,0,30.0,0,1,11.0,Large Business,0,5.0,5.0,Married,0,4,Executive,20787.0
+203338,0,55.0,0,1,10.0,Others,1,4.0,3.0,Divorced,0,5,AVP,36457.0
+202717,0,38.0,0,3,13.0,Small Business,1,4.0,3.0,Divorced,0,3,Manager,25180.0
+201014,0,31.0,0,1,14.0,Others,0,3.0,4.0,Unmarried,0,1,AVP,31422.0
+200454,0,29.0,0,1,,Large Business,1,3.0,3.0,Married,0,5,Manager,
+201350,0,27.0,0,3,8.0,Small Business,0,1.0,3.0,Unmarried,0,1,Manager,21500.0
+204706,1,34.0,1,1,36.0,Small Business,0,5.0,3.0,Unmarried,0,5,Manager,23186.0
+201043,0,53.0,0,1,8.0,Small Business,1,1.0,4.0,Unmarried,0,1,AVP,31598.0
+204826,1,27.0,0,1,14.0,Small Business,0,5.0,5.0,Married,1,4,Senior Manager,21553.0
+201203,0,53.0,0,1,30.0,Small Business,1,1.0,3.0,Married,0,3,Senior Manager,22005.0
+202488,0,31.0,1,1,7.0,Small Business,0,4.0,3.0,Unmarried,0,3,Manager,22689.0
